@@ -1,0 +1,1454 @@
+{
+  "international": [
+    {
+      "sno": 233,
+      "authors": "J Jithu, KN Vasista, S Kumar, B Srinivasan, C Balaji",
+      "title": "An inverse methodology to estimate the orthotropic thermal conductivities of AMP20M1HD-A pouch-type Li-ion battery",
+      "journal": "International Journal of Heat and Mass Transfer, 2025, 242, 126804"
+    },
+    {
+    "sno": 232,
+    "authors": "P Suresh, VB Krishnadasan, S Rangarajan, C Balaji",
+    "title": "Experimental investigation of two-phase immersion cooling with single and multi-fluid systems",
+    "journal": "Experimental Heat Transfer, 2025, 38(3), 288–306"
+  },
+  {
+    "sno": 231,
+    "authors": "VB Krishnadasan, P Suresh, C Balaji",
+    "title": "Experimental investigations on the performance and bubble dynamics of two-phase immersion cooling system with multiple chips",
+    "journal": "International Journal of Heat and Mass Transfer, 2025, 126977"
+  },
+  {
+    "sno": 230,
+    "authors": "R Akula, C Balaji",
+    "title": "Characterization of phase change material-based heat sinks for cyclic heat loads",
+    "journal": "Heat Transfer Engineering, 2025, 46(1), 51–71"
+  },
+  {
+    "sno": 229,
+    "authors": "P Yaswanth, B Narasimhan, C Balaji",
+    "title": "A Framework for Integrating Rain Gauge and High-resolution Remote Sensing Rainfall Precipitation Products for Enhanced Urban Flood Modeling and Forecasting",
+    "journal": "AGU, 2024"
+  },
+  {
+    "sno": 228,
+    "authors": "KN Vasista, S Majumder, S Rangarajan, C Balaji",
+    "title": "Double layered wavy surface based minichannel cold plate for thermal management of high powered electronics subjected to power surges",
+    "journal": "International Communications in Heat and Mass Transfer, 159, 108161"
+  },
+  {
+    "sno": 227,
+    "authors": "P Biswal, C Balaji",
+    "title": "Research advances on mist assisted impingement and film cooling of turbine blades",
+    "journal": "International Journal of Heat and Mass Transfer, 232, 125907"
+  },
+  {
+    "sno": 226,
+    "authors": "S Kumar, P Mukhopadhyay, C Balaji",
+    "title": "A machine learning based deep convective trigger for climate models",
+    "journal": "Climate Dynamics, 62(8), 8183–8200"
+  },
+  {
+    "sno": 225,
+    "authors": "Sayan Majumder, Rajesh Akula, C Balaji",
+    "title": "Thermal Management of Electronics under Graphite Assisted Heat Sink",
+    "journal": "Heat Transfer Engineering, 2024"
+  },
+  {
+    "sno": 224,
+    "authors": "Kirthiga S M, Narasimhan B, C Balaji",
+    "title": "Enhancing irrigation water productivity using short-medium range ensemble precipitation forecasts at basin scale",
+    "journal": "Journal of Hydrology, 2024 (to appear)"
+  },
+  {
+    "sno": 223,
+    "authors": "Kirthiga S M, Narasimhan B, C Balaji",
+    "title": "An Effective Approach to Reduce the Ensemble Members in a Multi-Physics Convection-Permitting Scale Framework",
+    "journal": "Journal of Climate Science, 2024 (to appear)"
+  },
+  {
+    "sno": 222,
+    "authors": "Rajesh Akula, Abhiram Minnikanti, C Balaji",
+    "title": "Pin fin-PCM composite heat sink solution for thermal management of cylindrical Li-ion battery",
+    "journal": "Applied Thermal Engineering (to appear)"
+  },
+  {
+    "sno": 221,
+    "authors": "Pratheek Suresh, C Balaji",
+    "title": "Deep learning algorithms for temperature prediction in two-phase immersion-cooled data centres",
+    "journal": "International Journal of Numerical Methods for Heat & Fluid Flow, 2024"
+  },
+  {
+    "sno": 220,
+    "authors": "Pratheek Suresh, VB Krishnadasan, Srikanth Rangarajan, C Balaji",
+    "title": "Experimental Investigation of Two-Phase Immersion Cooling with Single and Multi-Fluid Systems",
+    "journal": "Experimental Heat Transfer, 2024"
+  },
+  {
+    "sno": 219,
+    "authors": "Revulagadda Ananda Prasanna, Adapa Buchi Raju, Arvind Pattamatta, C Balaji",
+    "title": "Performance assessment and optimization of three-dimensional hybrid slot–effusion jet cooling configuration of an annular combustor liner",
+    "journal": "Applied Thermal Engineering, 240, 122198"
+  },
+  {
+    "sno": 218,
+    "authors": "Suraj Kumar, Rajesh Akula, C Balaji",
+    "title": "An inverse methodology to estimate the thermal properties and heat generation of a Li-ion battery",
+    "journal": "Applied Thermal Engineering, 236, 121752"
+  },
+  {
+    "sno": 217,
+    "authors": "Revulagadda Ananda Prasanna, Rana Rampada, Suresh Batchu, Arvind Pattamatta, C Balaji",
+    "title": "Multiobjective optimization of 3D-slot jet configuration for enhancement of film cooling in an annular combustor liner",
+    "journal": "International Journal of Heat and Mass Transfer, 218, 124745"
+  },
+  {
+    "sno": 216,
+    "authors": "Revulagadda Ananda Prasanna, Arvind Pattamatta, C Balaji",
+    "title": "Fluid Flow and Heat Transfer Characteristics of Three-Dimensional Slot Film Cooling in an Annular Combustor",
+    "journal": "International Journal of Heat and Mass Transfer, 211, 124211"
+  },
+  {
+    "sno": 215,
+    "authors": "P Yaswanth, B Arul Malar Kannan, VM Bindhu, Balaji Narasimhan, C Balaji",
+    "title": "Evaluation of Remote Sensing Rainfall Products, Bias Correction and Temporal Disaggregation Approaches for Improved Accuracy in Hydrologic Simulations",
+    "journal": "Water Resources Management, 37, 3069–3092"
+  },
+  {
+    "sno": 214,
+    "authors": "Alankrita Singh, C Balaji",
+    "title": "Heat Transfer Optimization Studies of Semi-Spherical Protrusions on a Concave Surface during Jet Impingement",
+    "journal": "Heat Transfer Engineering, 2023"
+  },
+  {
+    "sno": 213,
+    "authors": "Sandeep Chinta, VS Prasad, C Balaji",
+    "title": "Hybrid assimilation on a parameter-calibrated model to improve the prediction of heavy rainfall events during the Indian Summer Monsoon",
+    "journal": "Current Science, 124(6), 693–703"
+  },
+  {
+    "sno": 212,
+    "authors": "Girish Kumar Marri, C Balaji",
+    "title": "A machine learning methodology for the diagnosis of phase change material-based thermal management systems",
+    "journal": "Applied Thermal Engineering, 222, 119864"
+  },
+  {
+    "sno": 211,
+    "authors": "Suraj Kumar, C Balaji",
+    "title": "Prediction of orthotropic thermal conductivities using Bayesian inference from experiments under vacuum conditions",
+    "journal": "Heat Transfer Engineering, 2023"
+  },
+  {
+    "sno": 210,
+    "authors": "Rajesh Akula, C Balaji",
+    "title": "Thermal management of 18650 Li-ion battery using novel fins–PCM–EG composite heat sinks",
+    "journal": "Applied Energy, 316, 119048"
+  },
+  {
+    "sno": 209,
+    "authors": "R Chandrasekar, Reetik Kumar Sahu, C Balaji",
+    "title": "Assimilation of multi-channel radiances in mesoscale models with an ensemble technique to improve track forecasts of tropical cyclones",
+    "journal": "Journal of Earth System Science, 131"
+  },
+  {
+    "sno": 208,
+    "authors": "Girish Kumar Marri, C Balaji",
+    "title": "Effect of phase change temperatures and orientation on the thermal performance of a miniaturized PCM heat sink coupled heat pipe",
+    "journal": "Experimental Heat Transfer"
+  },
+  {
+    "sno": 207,
+    "authors": "Harish Baki, Sandeep Chinta, C Balaji, Balaji Srinivasan",
+    "title": "Parameter Calibration to Improve the Prediction of Tropical Cyclones over the Bay of Bengal Using Machine Learning–Based Multiobjective Optimization",
+    "journal": "Journal of Applied Meteorology and Climatology"
+  },
+  {
+    "sno": 206,
+    "authors": "Suraj Kumar, C Balaji",
+    "title": "Systematic approach to estimate non-uniform heat generation rate in heat transfer problems using liquid crystal thermography and inverse methodology",
+    "journal": "Experimental Heat Transfer, 2022"
+  },
+  {
+    "sno": 205,
+    "authors": "Baki Harish, Sandeep Chinta, C Balaji, Balaji Srinivasan",
+    "title": "Determining the sensitive parameters of WRF model for the prediction of tropical cyclones in the Bay of Bengal using Global Sensitivity Analysis and Machine Learning",
+    "journal": "Geoscientific Model Development Discussions"
+  },
+  {
+    "sno": 204,
+    "authors": "Baki Harish, C Balaji, Balaji Srinivasan",
+    "title": "Impact of data assimilation on a calibrated WRF model for the prediction of tropical cyclones over the Bay of Bengal",
+    "journal": "Current Science, 122"
+  },
+  {
+    "sno": 203,
+    "authors": "Baki Harish, Sandeep Chinta, C Balaji, Balaji Srinivasan",
+    "title": "A sensitivity study of WRF model microphysics and cumulus parameterization schemes for the simulation of tropical cyclones using GPM radar data",
+    "journal": "Journal of Earth System Science, 130(4)"
+  },
+  {
+    "sno": 202,
+    "authors": "Rajesh Akula, C Balaji",
+    "title": "Effect of PCM fill ratio and heat sink orientation on the thermal management of transient power spikes in electronics",
+    "journal": "Journal of Physics: Conference Series, 2116(1), 012077"
+  },
+  {
+    "sno": 201,
+    "authors": "Girish Kumar Marri, C Balaji",
+    "title": "Liquid crystal thermography based study on melting dynamics and the effect of mushy zone constant in numerical modeling of melting of a phase change material",
+    "journal": "International Journal of Thermal Sciences, 171, 107176"
+  },
+  {
+    "sno": 200,
+    "authors": "M Ram Prabhu, C Balaji, T Sundararajan, M J Chacko",
+    "title": "Estimation of Aerodynamic Heating on Scramjet Inlets and Validation with Measurements",
+    "journal": "Journal of Thermal Science and Engineering Applications, 14(1), 011010"
+  },
+  {
+    "sno": 199,
+    "authors": "P Jyoteeshkumar Reddy, Dommeti Sriram, S S Gunthe, C Balaji",
+    "title": "Impact of climate change on intense Bay of Bengal tropical cyclones of the post-monsoon season: a pseudo global warming approach",
+    "journal": "Climate Dynamics, 56, 2855–2879 (2021)"
+  },
+  {
+    "sno": 198,
+    "authors": "S M Kirthiga, B Narasimhan, C Balaji",
+    "title": "A multi-physics ensemble approach for short-term precipitation forecasts at convective permitting scales based on sensitivity experiments over southern parts of Peninsular India",
+    "journal": "Journal of Earth System Science, 130, Article 68 (2021)"
+  },
+  {
+    "sno": 197,
+    "authors": "Siddharth Kumar, R Phani, P Mukhopadhyay, C Balaji",
+    "title": "An assessment of radiative flux biases in the climate forecast system model CFSv2",
+    "journal": "Climate Dynamics, 56, 1541–1569 (2021)"
+  },
+  {
+    "sno": 196,
+    "authors": "Girish Kumar Marri, C Balaji",
+    "title": "Experimental and numerical investigations on the effect of porosity and PPI gradients of metal foams on the thermal performance of a composite phase change material heat sink",
+    "journal": "International Journal of Heat and Mass Transfer, 164, 120454"
+  },
+  {
+    "sno": 195,
+    "authors": "Rajesh Akula, C Balaji",
+    "title": "Thermal performance of a phase change material based heat sink subject to constant and power surge heat loads: A numerical study",
+    "journal": "ASME Journal of Thermal Science and Engineering Applications, 13(3), 031014 (2021)"
+  },
+  {
+    "sno": 194,
+    "authors": "Rajesh Akula, Athul Gopinath, R Srikanth, C Balaji",
+    "title": "Experimental and numerical studies on heat transfer from a PCM based heat sink with baffles",
+    "journal": "International Journal of Thermal Sciences, 159, 106525 (2021)"
+  },
+  {
+    "sno": 193,
+    "authors": "Sandeep Chinta, C Balaji",
+    "title": "Calibration of WRF model parameters using multiobjective adaptive surrogate model-based optimization to improve the prediction of the Indian summer monsoon",
+    "journal": "Climate Dynamics, 55, 631–650 (2020)"
+  },
+  {
+    "sno": 192,
+    "authors": "Sangamesh C Godi, Arvind Pattamatta, C Balaji",
+    "title": "Heat Transfer From a Single and Row of Three Dimensional Wall Jets - A Combined Experimental and Numerical Study",
+    "journal": "International Journal of Heat and Mass Transfer, 159, 119801 (2020)"
+  },
+  {
+    "sno": 191,
+    "authors": "Alankrita Singh, C Balaji, BVSSS Prasad",
+    "title": "Numerical simulations and optimization of impinging jet configuration",
+    "journal": "International Journal of Numerical Methods for Heat & Fluid Flow, 31(1)"
+  },
+  {
+    "sno": 190,
+    "authors": "P Jyoteeshkumar, P V Kiran, C Balaji",
+    "title": "Chennai extreme rainfall event of 2015 under future climate projections using the pseudo global warming dynamic downscaling method",
+    "journal": "Current Science, 118(12), 25 June 2020"
+  },
+  {
+    "sno": 189,
+    "authors": "B Kotresha, N Gnanasekaran, C Balaji",
+    "title": "Numerical simulations of flow-assisted mixed convection in a vertical channel filled with high porosity metal foams",
+    "journal": "Heat Transfer Engineering, 41(8), 739–750 (2020)"
+  },
+  {
+    "sno": 188,
+    "authors": "Suraj Kumar, Pradeep S Jakkareddy, C Balaji",
+    "title": "A novel method to detect hot spots and estimate strengths of discrete heat sources using liquid crystal thermography",
+    "journal": "International Journal of Thermal Sciences, 154, 106377 (2020)"
+  },
+  {
+    "sno": 187,
+    "authors": "Girish Kumar Marri, R Srikanth, C Balaji",
+    "title": "Effect of phase change and ambient temperatures on the thermal performance of a solid-liquid phase change material based heat sinks",
+    "journal": "Journal of Energy Storage, 30, 101327 (2020)"
+  },
+  {
+    "sno": 186,
+    "authors": "Rahul Yadav, C Balaji, S P Venkateshan",
+    "title": "Optimization of number and locations of discrete heaters in a two-dimensional radiant heating furnace using artificial neural networks",
+    "journal": "Journal of Energy and Environmental Sustainability, 8, 12–18 (2019)"
+  },
+  {
+    "sno": 185,
+    "authors": "Girish Kumar Marri, C Balaji",
+    "title": "Experimental and numerical investigations on a phase change material based heat sink with symbiotically joined heat pipe",
+    "journal": "Heat Transfer Engineering, 2019"
+  },
+  {
+    "sno": 184,
+    "authors": "S C Godi, A Pattamatta, C Balaji",
+    "title": "Effect of the inlet geometry on the flow and heat transfer characteristics of three dimensional wall jets",
+    "journal": "ASME Journal of Heat Transfer, 141(11), 112201 (2019)"
+  },
+  {
+    "sno": 183,
+    "authors": "Rahul Yadav, Chakravarthy Balaji, S P Venkateshan",
+    "title": "Analysis of Radiative Transfer in body-fitted axisymmetric geometries with band models and anisotropic scattering",
+    "journal": "Computational Thermal Sciences, 11(1–2), 161–176 (2019)"
+  },
+  {
+    "sno": 182,
+    "authors": "Sangamesh C Godi, Satyanand Abraham, Arvind Pattamatta, C Balaji",
+    "title": "Evaluation of Candidate Strategies for the Estimation of Local Heat Transfer Coefficient from Wall Jets",
+    "journal": "Experimental Heat Transfer, 33, 40–63 (2020)"
+  },
+  {
+    "sno": 181,
+    "authors": "Rahul Yadav, C Balaji, S P Venkateshan",
+    "title": "Inverse estimation of number and location of discrete heaters in radiant furnaces using artificial neural networks and genetic algorithm",
+    "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer, 226, 127–137 (2019)"
+  },
+  {
+    "sno": 180,
+    "authors": "Govind Rao Yenni, Amrit Ambirajan, C Balaji, S P Venkateshan",
+    "title": "Emissivity Estimation of Space Craft Thermal Control Surfaces at Cryogenic Temperatures - A Novel Experimental Approach",
+    "journal": "Heat and Mass Transfer, 55, 1465–1476 (2019)"
+  },
+  {
+    "sno": 179,
+    "authors": "B Kotresha, N Gnanasekaran, C Balaji",
+    "title": "Numerical Simulations of Flow Assisted Mixed Convection in a Vertical Channel Filled with High Porosity Metal Foams",
+    "journal": "Heat Transfer Engineering, 41(8), 739–750 (2020)"
+  },
+  {
+    "sno": 178,
+    "authors": "Partha Sarathy U, C Balaji, T Sundararajan",
+    "title": "Numerical modeling of FBR safety grade decay heat removal system and its validation",
+    "journal": "International Journal of Advances in Engineering Sciences and Applied Mathematics, 10(2)"
+  },
+  {
+    "sno": 177,
+    "authors": "Samarjeet Chanda, C Balaji, S P Venkateshan",
+    "title": "Non-intrusive measurement of thermal contact conductance at polymer-metal two dimensional annular interface",
+    "journal": "Heat and Mass Transfer, 55, 327–340 (2019)"
+  },
+  {
+    "sno": 176,
+    "authors": "Sandeep Chinta, C Krishnamoorthy, C Balaji",
+    "title": "Impact of cloud parameterization schemes on the simulation of cyclone Vardah using the WRF model",
+    "journal": "Current Science, 115(6)"
+  },
+  {
+    "sno": 175,
+    "authors": "C Krishnamoorthy, C Balaji",
+    "title": "Ingesting microwave sounder radiances for improvement in track forecast of cyclone Vardah",
+    "journal": "Journal of Applied Remote Sensing, 12(2), 026015 (2018)"
+  },
+  {
+    "sno": 174,
+    "authors": "Pradeep S Jakkareddy, C Balaji",
+    "title": "A non-intrusive technique to determine the spatially varying heat transfer coefficients in a flat plate with flush mounted heat sources",
+    "journal": "International Journal of Thermal Sciences, 131, 144–159 (2018)"
+  },
+  {
+    "sno": 173,
+    "authors": "Pradeep S Jakkareddy, C Balaji",
+    "title": "Estimation of local heat transfer coefficient from natural convection experiments using liquid crystal thermography and Bayesian method",
+    "journal": "Experimental Thermal and Fluid Science, 97, 458–467 (2018)"
+  },
+  {
+    "sno": 172,
+    "authors": "Naresh Yarramsetty, Shrivignesh, C Balaji",
+    "title": "Experimental investigations of the thermal performance of self rewetting fluids in internally finned wickless heat pipes",
+    "journal": "Experimental Thermal and Fluid Science, 92, 436–446 (2018)"
+  },
+  {
+    "sno": 171,
+    "authors": "Srikanth Srinivas Sridharan, C Balaji",
+    "title": "Multi objective geometric optimization of phase change material based cylindrical heat sinks with internal stem and radial fins",
+    "journal": "Thermal Science and Engineering Progress, 5, 238–251 (2018)"
+  },
+  {
+    "sno": 170,
+    "authors": "Y Naresh, C Balaji",
+    "title": "Thermal performance of an internally finned two phase closed thermosyphon with refrigerant R134a: A combined experimental and numerical study",
+    "journal": "International Journal of Thermal Sciences, 126, 281–293 (2018)"
+  },
+  {
+    "sno": 169,
+    "authors": "H Kumar, S Kumar, C Balaji",
+    "title": "A Markov Chain Monte Carlo–Metropolis Hastings Approach for the Simultaneous Estimation of Heat Generation and Heat Transfer Coefficient from a Teflon Cylinder",
+    "journal": "Heat Transfer Engineering, 39(4), 339–352 (2018)"
+  },
+  {
+    "sno": 168,
+    "authors": "Neeraj Sinai Borker, C Balaji",
+    "title": "Numerical Investigation of Flow and Heat Transfer from Impinging Jets on a Target Surface with Protrusions",
+    "journal": "Heat Transfer Engineering, 39(6), 565–581 (2018)"
+  },
+  {
+    "sno": 167,
+    "authors": "Harsha Kumar MK, PS Vishweshwara, N Gnanasekaran, C Balaji",
+    "title": "A combined ANN-GA and experimental based technique for the estimation of the unknown heat flux for a conjugate heat transfer problem",
+    "journal": "Heat and Mass Transfer, 2018"
+  },
+  {
+    "sno": 166,
+    "authors": "R Srikanth, C Balaji",
+    "title": "Experimental investigation on the heat transfer performance of a PCM based pin fin heat sink with discrete heating",
+    "journal": "International Journal of Thermal Sciences, 111, 188–203 (2017)"
+  },
+  {
+    "sno": 165,
+    "authors": "S Reetik Kumar, B Konda Reddy, C Balaji",
+    "title": "Application of Hybrid Monte Carlo Algorithm in Heat Transfer",
+    "journal": "ASME Journal of Heat Transfer, 139(8), 082004 (2017)"
+  },
+  {
+    "sno": 164,
+    "authors": "R Srikanth, C Balaji",
+    "title": "Heat Transfer Correlations for a Composite PCM based 72 Pin Fin Heat Sink with Discrete Heating at the base",
+    "journal": "INAE Letters, 2(3), 65–71 (2017)"
+  },
+  {
+    "sno": 163,
+    "authors": "Renju Kurian, C Balaji, S P Venkateshan",
+    "title": "An Experimental Study on Hydrodynamic and Thermal Performance of Stainless Steel wire mesh blocks in a vertical channel",
+    "journal": "Experimental Thermal and Fluid Science, 86, 248–256 (2017)"
+  },
+  {
+    "sno": 162,
+    "authors": "Pulla Rao M, C Balaji, S P Venkateshan",
+    "title": "Experimental investigation on heat transfer from square jets issuing from perforated nozzles",
+    "journal": "Heat and Mass Transfer, 53(7), 2363–2375 (2017)"
+  },
+  {
+    "sno": 161,
+    "authors": "Pulla Rao M, C Balaji, S P Venkateshan",
+    "title": "Experimental investigation on the effect of wire mesh at the nozzle exit on heat transfer from impinging square jets",
+    "journal": "Experimental Thermal and Fluid Science, 84, 78–89 (2017)"
+  },
+  {
+    "sno": 160,
+    "authors": "Pradeep S Jakkareddy, C Balaji",
+    "title": "A methodology to determine boundary conditions from forced convection experiments using liquid crystal thermography",
+    "journal": "Heat and Mass Transfer, 53(2), 519–535 (2017)"
+  },
+  {
+    "sno": 159,
+    "authors": "Rahul Yadav, C Balaji, S P Venkateshan",
+    "title": "Implementation of SLW model in the radiative heat transfer problems with particles and high temperature gradients",
+    "journal": "International Journal of Numerical Methods for Heat and Fluid Flow, 27(5), 1128–1141 (2016)"
+  },
+  {
+    "sno": 158,
+    "authors": "Rahul Yadav, Chakravarthy Balaji, S P Venkateshan",
+    "title": "Implementation of SLW model in the radiative heat transfer problems with particles and high temperature gradients",
+    "journal": "International Journal of Numerical Methods for Heat and Fluid Flow, 27(5), 1128–1141 (2016)"
+  },
+  {
+    "sno": 157,
+    "authors": "Naresh Y, C Balaji",
+    "title": "Experimental investigations of heat transfer from an internally finned two phase closed thermosyphon",
+    "journal": "Applied Thermal Engineering, 112, 1658–1666 (2017)"
+  },
+  {
+    "sno": 156,
+    "authors": "U Ansu, Sangamesh C Godi, Arvind Pattamatta, C Balaji",
+    "title": "Experimental investigations of inlet condition on jet impingement heat transfer using liquid crystal thermography",
+    "journal": "Experimental Thermal and Fluid Science, 80, 363–375 (2017)"
+  },
+  {
+    "sno": 155,
+    "authors": "Samarjeet Chanda, C Balaji, S P Venkateshan, Govinda Rao Yenni",
+    "title": "Estimation of principal thermal conductivities of layered honeycomb composites using ANN–GA based inverse technique",
+    "journal": "International Journal of Thermal Sciences, 111, 423–436 (2017)"
+  },
+  {
+    "sno": 154,
+    "authors": "Tabish U Ansari, N Ojha, R Chandrasekar, C Balaji, Narendra Singh, Sachin S Gunthe",
+    "title": "Competing impact of anthropogenic emissions and meteorology on the distribution of trace gases over Indian region",
+    "journal": "Journal of Atmospheric Chemistry, 73, 363–380 (2016)"
+  },
+  {
+    "sno": 153,
+    "authors": "Pradeep J S, C Balaji",
+    "title": "Estimation of spatially varying heat transfer coefficient from a flat plate with flush mounted heat sources using Bayesian inference",
+    "journal": "Journal of Physics: Conference Series, 745(3)"
+  },
+  {
+    "sno": 152,
+    "authors": "Naresh Y, C Balaji",
+    "title": "Numerical investigations of small diameter two-phase closed thermosyphon",
+    "journal": "Journal of Physics: Conference Series, 745(3)"
+  },
+  {
+    "sno": 151,
+    "authors": "R Srikanth, Rohit S Nair, C Balaji",
+    "title": "Thermosyphon assisted melting of PCM inside a rectangular enclosure: A synergistic numerical approach",
+    "journal": "Journal of Physics: Conference Series, 745(3)"
+  },
+  {
+    "sno": 150,
+    "authors": "Rahul Yadav, C Balaji, S P Venkateshan",
+    "title": "Implementation of SLW model in the radiative heat transfer problems with particles and high temperature gradients",
+    "journal": "International Journal of Numerical Methods for Heat and Fluid Flow, 27(5), 1128–1141 (2016)"
+  },
+  {
+    "sno": 149,
+    "authors": "C Krishnamoorthy, Deo Kumar, C Balaji",
+    "title": "Retrieval of humidity and temperature profiles over the oceans from INSAT 3D satellite radiances",
+    "journal": "Journal of Earth System Science, 125(2) (2016)"
+  },
+  {
+    "sno": 148,
+    "authors": "R S Jadhav, C Balaji",
+    "title": "Fluid flow and heat transfer characteristics of a vertical channel with detached pin-fin arrays arranged in staggered manner on two opposite endwalls",
+    "journal": "International Journal of Thermal Sciences, 105, 57–74 (2016)"
+  },
+  {
+    "sno": 147,
+    "authors": "S P Pathak, V K Suresh Kumar, I B Noushad, A K Rajan, K Velusamy, C Balaji",
+    "title": "Porous Body Model Based Parametric Study for Sodium to Air Heat Exchangers Used in Fast Reactors",
+    "journal": "Journal of Thermal Science and Engineering Applications, 8(1) (2016)"
+  },
+  {
+    "sno": 146,
+    "authors": "R S Nair, C Balaji",
+    "title": "Synergistic analysis of heat transfer characteristics of an internally finned two phase closed thermosyphon",
+    "journal": "Applied Thermal Engineering, 101, 720–729 (2016)"
+  },
+  {
+    "sno": 145,
+    "authors": "Renju Kurian, C Balaji, S P Venkateshan",
+    "title": "Experimental investigation of convective heat transfer in a vertical channel with brass wire mesh blocks",
+    "journal": "International Journal of Thermal Sciences, 99, 170–179 (2016)"
+  },
+  {
+    "sno": 144,
+    "authors": "R Chandrasekar, C Balaji",
+    "title": "Impact of physics parameterization and 3DVAR data assimilation on prediction of tropical cyclones in the Bay of Bengal region",
+    "journal": "Natural Hazards, 80(1), 223–247 (2016)"
+  },
+  {
+    "sno": 143,
+    "authors": "P V S S Srivatsa, Rajesh Baby, C Balaji",
+    "title": "Geometric optimization of a PCM based heat sink – A coupled ANN and GA approach",
+    "journal": "Heat Transfer Engineering, 2015, 875–888"
+  },
+  {
+    "sno": 142,
+    "authors": "B Anoop, C Balaji, K Velusamy",
+    "title": "A characteristic correlation for heat transfer over serrated finned tubes",
+    "journal": "Annals of Nuclear Energy, 85, 1052–1065 (2015)"
+  },
+  {
+    "sno": 141,
+    "authors": "R Srikanth, Pavan Nemani, C Balaji",
+    "title": "Multi-objective geometric optimization of a PCM based matrix type composite heat sink",
+    "journal": "Applied Energy, 156, 703–714 (2015)"
+  },
+  {
+    "sno": 140,
+    "authors": "Rajesh Alayil, C Balaji",
+    "title": "Conjugate Heat Transfer in PCM based composite heat sink with cross plate fins",
+    "journal": "ASME Journal of Heat Transfer, 137(10), 102302 (2015)"
+  },
+  {
+    "sno": 139,
+    "authors": "Shaik Imran Ahamad, C Balaji",
+    "title": "Inverse conjugate mixed convection in a vertical substrate with protruding heat sources – A combined experimental and numerical study",
+    "journal": "Heat and Mass Transfer, 52(6) (2015)"
+  },
+  {
+    "sno": 138,
+    "authors": "Tapan Kumar Hotta, C Balaji, S P Venkateshan",
+    "title": "Experiment driven ANN-GA based technique for optimal distribution of discrete heat sources under mixed convection",
+    "journal": "Experimental Heat Transfer, 28(3) (2015)"
+  },
+  {
+    "sno": 137,
+    "authors": "S P Pathak, K Velusamy, K K Rajan, C Balaji",
+    "title": "Numerical and experimental investigations of heat removal performance of sodium to air heat exchanger used in fast reactors",
+    "journal": "Heat Transfer Engineering, 36(5) (2015)"
+  },
+  {
+    "sno": 136,
+    "authors": "Shaik Imran Ahamad, C Balaji",
+    "title": "In search of a simpler thermal model for mixed convection from protruding heat sources on a vertical plate",
+    "journal": "Heat Transfer Engineering, 36(4), 396–407 (2015)"
+  },
+  {
+    "sno": 135,
+    "authors": "B Konda Reddy, C Balaji",
+    "title": "Bayesian estimation of heat flux and thermal diffusivity using liquid crystal thermography",
+    "journal": "International Journal of Thermal Sciences, 87, 31–48 (2015)"
+  },
+  {
+    "sno": 134,
+    "authors": "Sumanth Dathathri, C Balaji",
+    "title": "Heat Transfer and Optimization Studies on Layered Porous Stackings under an Imposed Pressure Drop",
+    "journal": "International Communications in Heat and Mass Transfer, 2015"
+  },
+  {
+    "sno": 133,
+    "authors": "C Balaji, Rajesh Baby",
+    "title": "Experimental investigation on thermal performance of phase change material based composite heat sinks",
+    "journal": "Annals of the Indian National Academy of Engineering, 11, 61–71 (2014)"
+  },
+  {
+    "sno": 132,
+    "authors": "Samarjeet Chanda, C Balaji, S P Venkateshan, Govinda Rao Yenni, Amrit Ambirajan",
+    "title": "Joint conductance effects on estimation of effective thermal conductivities of anisotropic composites",
+    "journal": "Journal of Thermophysics and Heat Transfer, 28(3), 553–560 (2014)"
+  },
+  {
+    "sno": 131,
+    "authors": "Tapan Kumar Hotta, C Balaji, S P Venkateshan",
+    "title": "Optimal distribution of discrete heat sources under mixed convection – A heuristic approach",
+    "journal": "ASME Journal of Heat Transfer, 136(10) (2014)"
+  },
+  {
+    "sno": 130,
+    "authors": "P V S S Srivatsa, Rajesh Baby, C Balaji",
+    "title": "Numerical investigations of PCM based heat sinks with embedded metal foam/crossed plate fins",
+    "journal": "Numerical Heat Transfer, Part A, 66(10) (2014)"
+  },
+  {
+    "sno": 129,
+    "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+    "title": "Heat transfer enhancement with discrete heat sources in a metal foam filled vertical channel",
+    "journal": "International Communications in Heat and Mass Transfer, 53, 180–184 (2014)"
+  },
+  {
+    "sno": 128,
+    "authors": "C Balaji, C Krishnamoorthy, R Chandrasekar",
+    "title": "On the possibility of retrieving near surface rain rate from the microwave sounder SAPHIR of the Megha-Tropiques mission",
+    "journal": "Current Science, 106(4), 587–593 (2014)"
+  },
+  {
+    "sno": 127,
+    "authors": "Deepak Subramani, R Chandrasekar, K Srinivasa Ramanujam, C Balaji",
+    "title": "A new ensemble based data assimilation to improve track prediction of tropical cyclones",
+    "journal": "Natural Hazards, 2014"
+  },
+  {
+    "sno": 126,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Thermal performance of a PCM based plate fin heat sink matrix under constant and intermittent heat loads",
+    "journal": "International Journal of Thermal Sciences, 79, 240–249 (2014)"
+  },
+  {
+    "sno": 125,
+    "authors": "C Balaji, B Konda Reddy, H Herwig",
+    "title": "Incorporating engineering intuition for parameter estimation in thermal sciences",
+    "journal": "Heat and Mass Transfer, 49, 1771–1785 (2013)"
+  },
+  {
+    "sno": 124,
+    "authors": "C Balaji, K Srinivasa Ramanujam",
+    "title": "Retrieval of the vertical rainfall structure from the MADRAS imager data of the Megha-Tropiques satellite",
+    "journal": "Current Science, 104, 1627–1634 (2013)"
+  },
+  {
+    "sno": 123,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Experimental investigations on thermal performance enhancement and effect orientation on porous filled PCM based heat sink",
+    "journal": "International Communications in Heat and Mass Transfer, 46, 27–30 (2013)"
+  },
+  {
+    "sno": 122,
+    "authors": "Samarjeet Chanda, C Balaji, S P Venkateshan",
+    "title": "Simultaneous estimation of principal thermal conductivities of an anisotropic composite medium – An inverse analysis",
+    "journal": "ASME Journal of Heat Transfer, 2013"
+  },
+  {
+    "sno": 121,
+    "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+    "title": "Heat Transfer Studies in a Vertical Channel Filled with Porous Medium",
+    "journal": "Fluid Dynamics and Materials Processing, 9(2), 111–126 (2013)"
+  },
+  {
+    "sno": 120,
+    "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+    "title": "A Simple Thermal Resistance Model For Open Cell Metal Foams",
+    "journal": "ASME Journal of Heat Transfer, 135, 032601 (2013)"
+  },
+  {
+    "sno": 119,
+    "authors": "Vivek V, Sharma A K, C Balaji",
+    "title": "A CFD based approach for thermal hydraulic design of main vessel cooling system of pool type fast reactors",
+    "journal": "Annals of Nuclear Energy, 2013"
+  },
+  {
+    "sno": 118,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Thermal Optimization of PCM based pin fin heat sinks – An experimental study",
+    "journal": "Applied Thermal Engineering, 54, 65–77 (2013)"
+  },
+  {
+    "sno": 117,
+    "authors": "N Gnanasekaran, C Balaji",
+    "title": "Markov Chain Monte Carlo (MCMC) Approach for the Determination of Thermal Diffusivity Using Transient Fin Heat Transfer Experiments",
+    "journal": "International Journal of Thermal Sciences, 63, 46–54 (2013)"
+  },
+  {
+    "sno": 116,
+    "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+    "title": "Convection heat transfer from aluminum and copper foams in a vertical channel",
+    "journal": "International Journal of Thermal Sciences, 64, 1–10 (2013)"
+  },
+  {
+    "sno": 115,
+    "authors": "B Konda Reddy, N Gnanasekaran, C Balaji",
+    "title": "Estimation of thermophysical and transport properties with Bayesian inference using transient liquid crystal thermography experiments",
+    "journal": "Journal of Physics: Conference Series, 395, 012082 (2012)"
+  },
+  {
+    "sno": 114,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Thermal management of electronics using phase change material based pin fin heat sinks",
+    "journal": "Journal of Physics: Conference Series, 395, 012134 (2012)"
+  },
+  {
+    "sno": 113,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "A Neural Network Based Optimization of Thermal Performance of PCM Based Finned Heat Sinks",
+    "journal": "Experimental Heat Transfer, 26(5), 431–452 (2013)"
+  },
+  {
+    "sno": 112,
+    "authors": "Parthasarathy U, T Sundararajan, C Balaji, K Velusamy",
+    "title": "Development of a porous body model for decay heat removal studies in a pool type sodium cooled fast reactor",
+    "journal": "International Journal of Advances in Engineering Sciences and Applied Mathematics, 4(3)"
+  },
+  {
+    "sno": 111,
+    "authors": "B Konda Reddy, N Gnanasekaran, C Balaji",
+    "title": "Estimation of thermophysical and transport properties with Bayesian inference using transient liquid crystal thermography experiments",
+    "journal": "Journal of Physics: Conference Series, 395, 012082 (2012)"
+  },
+  {
+    "sno": 110,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Thermal management of electronics using phase change material based pin fin heat sinks",
+    "journal": "Journal of Physics: Conference Series, 395, 012134 (2012)"
+  },
+  {
+    "sno": 109,
+    "authors": "Vivek V, Sharma A K, C Balaji",
+    "title": "Interaction effects between laminar natural convection and surface radiation in tilted square and shallow enclosures",
+    "journal": "International Journal of Thermal Sciences, 60, 70–84 (2012)"
+  },
+  {
+    "sno": 108,
+    "authors": "Parthasarathy U, T Sundararajan, C Balaji",
+    "title": "Decay heat removal in pool type fast reactor using passive systems",
+    "journal": "Nuclear Engineering and Design, 250, 480–499 (2012)"
+  },
+  {
+    "sno": 107,
+    "authors": "B Konda Reddy, C Balaji",
+    "title": "Estimation of temperature dependent heat transfer coefficient in a vertical rectangular fin using liquid crystal thermography",
+    "journal": "International Journal of Heat and Mass Transfer, 55, 3686–3693 (2012)"
+  },
+  {
+    "sno": 106,
+    "authors": "K Srinivasa Ramanujam, R Chandrasekar, Deepak Subramani, C Balaji",
+    "title": "On the effect of non-raining parameters in retrieval of surface rain rate using TRMM PR and TMI measurements",
+    "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 5, 735–745 (2012)"
+  },
+  {
+    "sno": 105,
+    "authors": "S Ramechecandane, C Balaji, S P Venkateshan",
+    "title": "Numerical analysis of a divergent duct with high enthalpy transonic cross injection",
+    "journal": "International Journal of Multiphysics, 6, 17–28 (2012)"
+  },
+  {
+    "sno": 104,
+    "authors": "R Chandrasekar, C Balaji",
+    "title": "Sensitivity of tropical cyclone Jal simulations to physics parameterizations",
+    "journal": "Journal of Earth System Science, 121, 923–946 (2012)"
+  },
+  {
+    "sno": 103,
+    "authors": "Praveen Krishnan, K Srinivasa Ramanujam, C Balaji",
+    "title": "An Artificial Neural Network Based Fast Radiative Transfer Model for Simulating Infrared Sounder Radiances",
+    "journal": "Journal of Earth System Science, 121, 891–901 (2012)"
+  },
+  {
+    "sno": 102,
+    "authors": "Rajesh Baby, C Balaji",
+    "title": "Experimental investigations on phase change material based finned heat sinks for electronic equipment cooling",
+    "journal": "International Journal of Heat and Mass Transfer, 55, 1642–1649 (2012)"
+  },
+  {
+    "sno": 101,
+    "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+    "title": "Experimental investigation of flow assisted mixed convection in high porosity foams in vertical channels",
+    "journal": "International Journal of Heat and Mass Transfer, 54, 5231–5241 (2011)"
+  },
+  {
+    "sno": 100,
+    "authors": "K Srinivasa Ramanujam, R Chandrasekar, C Balaji",
+    "title": "A new PCA-ANN algorithm for retrieval of rainfall structure in a precipitating atmosphere",
+    "journal": "International Journal of Numerical Methods for Heat and Fluid Flow, 21, 1002–1025 (2011)"
+  },
+  {
+    "sno": 99,
+    "authors": "Parthasarathy U, T Sundararajan, C Balaji, K Velusamy",
+    "title": "Characterization of Sodium flow in over hexagonal fuel sub-assemblies",
+    "journal": "International Communications in Heat and Mass Transfer, 38, 928–937 (2011)"
+  },
+  {
+    "sno": 98,
+    "authors": "N Gnanasekaran, C Balaji",
+    "title": "A Bayesian approach for the simultaneous estimation of surface heat transfer coefficient and thermal conductivity from steady state experiments on fins",
+    "journal": "International Journal of Heat and Mass Transfer, 54, 3060–3068 (2011)"
+  },
+  {
+    "sno": 97,
+    "authors": "N Maheswari, C Balaji, A Ramesh",
+    "title": "A non linear regression based multi-objective optimization of parameters based on experimental data biodiesel blends",
+    "journal": "Journal of Biomass and Bioenergy, 35, 2171–2183 (2011)"
+  },
+  {
+    "sno": 96,
+    "authors": "A Kumar, C Balaji",
+    "title": "ANN based estimation of heat generation from multiple protruding heat sources on a vertical plate under conjugate mixed convection",
+    "journal": "International Journal of Thermal Sciences, 50, 532–543 (2011)"
+  },
+  {
+    "sno": 95,
+    "authors": "K Srinivasa Ramanujam, C Balaji",
+    "title": "Radiative Transfer Simulations for the MADRAS Imager of Megha-Tropiques",
+    "journal": "Journal of Earth System Science, 120, 1–17 (2011)"
+  },
+  {
+    "sno": 94,
+    "authors": "B Premachandran, C Balaji",
+    "title": "Conjugate Mixed Convection with Surface Radiation from a Vertical Channel with Protruding Heat Sources",
+    "journal": "Numerical Heat Transfer Part A, 60, 171–196 (2011)"
+  },
+  {
+    "sno": 93,
+    "authors": "N Gnanasekaran, C Balaji",
+    "title": "A Correlation for Nusselt Number under Turbulent Mixed Convection using Transient heat transfer Experiment",
+    "journal": "Frontiers in Heat and Mass Transfer, 2, 023008 (2011)"
+  },
+  {
+    "sno": 92,
+    "authors": "C Balaji, P Mungara, P Sharma",
+    "title": "Optimization of size and shape of composite heat sinks with phase change materials",
+    "journal": "Heat and Mass Transfer, 2010"
+  },
+  {
+    "sno": 91,
+    "authors": "G Venugopal, C Balaji, S P Venkateshan",
+    "title": "Application of transient experimental techniques for developing a heat transfer correlation for mixed convection in porous medium",
+    "journal": "Inverse Problems in Science and Engineering, 18, 1129–1150 (2010)"
+  },
+  {
+    "sno": 90,
+    "authors": "M A Gad, C Balaji",
+    "title": "Effect of surface radiation on RBC in cavities heated from below",
+    "journal": "International Communications in Heat and Mass Transfer, 37, 1459–1464 (2010)"
+  },
+  {
+    "sno": 89,
+    "authors": "C Balaji, T Padhi",
+    "title": "A new ANN driven MCMC method for multi-parameter estimation in two-dimensional conduction with heat generation",
+    "journal": "International Journal of Heat and Mass Transfer, 53, 5440–5455 (2010)"
+  },
+  {
+    "sno": 88,
+    "authors": "A K Sharma, K Velusamy, C Balaji",
+    "title": "Turbulent natural convection of heat generating low Prandtl fluids in a cylindrical enclosure",
+    "journal": "International Journal of Heat and Technology, 28, 9–17 (2010)"
+  },
+  {
+    "sno": 87,
+    "authors": "S Mitra, C Balaji",
+    "title": "A neural network based estimation of tumor parameters from a breast thermogram",
+    "journal": "International Journal of Heat and Mass Transfer, 53, 4714–4727 (2010)"
+  },
+  {
+    "sno": 86,
+    "authors": "A Kumar, C Balaji",
+    "title": "A Principal Component Analysis and neural network based non-iterative method for inverse conjugate natural convection",
+    "journal": "International Journal of Heat and Mass Transfer, 53, 4684–4695 (2010)"
+  },
+  {
+    "sno": 85,
+    "authors": "N Gnanasekaran, C Balaji",
+    "title": "An inexpensive technique to simultaneously determine total emissivity and natural convection heat transfer coefficient from transient experiments",
+    "journal": "Experimental Heat Transfer, 23, 235–258 (2010)"
+  },
+  {
+    "sno": 84,
+    "authors": "T V Radhakrishnan, C Balaji, S P Venkateshan",
+    "title": "Optimization of multiple heaters in a vented enclosure – A combined numerical and experimental study",
+    "journal": "International Journal of Thermal Sciences, 49, 721–732 (2010)"
+  },
+  {
+    "sno": 83,
+    "authors": "C Balaji, M Deiveegan, S P Venkateshan, R M Gairola, A Sarkar, V K Agarwal",
+    "title": "Retrieval of hydrometeors from microwave radiances with a polarized radiative transfer model",
+    "journal": "Journal of Earth System Science, 119, 97–115 (2010)"
+  },
+  {
+    "sno": 82,
+    "authors": "G Venugopal, C Balaji, S P Venkateshan",
+    "title": "Experimental study of mixed convection heat transfer in a vertical duct filled with metallic porous structures",
+    "journal": "International Journal of Thermal Sciences, 49, 340–348 (2010)"
+  },
+  {
+    "sno": 81,
+    "authors": "T V V Sudhakar, C Balaji, S P Venkateshan",
+    "title": "A heuristic approach to optimal arrangement of multiple heat sources under conjugate natural convection",
+    "journal": "International Journal of Heat and Mass Transfer, 53, 431–444 (2010)"
+  },
+  {
+    "sno": 80,
+    "authors": "T V V Sudhakar, A Shori, C Balaji, S P Venkateshan",
+    "title": "Optimal heat distribution among discrete protruding heat sources in a vertical duct: A combined numerical and experimental study",
+    "journal": "Journal of Heat Transfer, 132 (2010)"
+  },
+  {
+    "sno": 79,
+    "authors": "C Balaji, T Thaseem",
+    "title": "An example of Bayesian inference in thermal sciences",
+    "journal": "Resonance, 14, 1171–1182 (2009)"
+  },
+  {
+    "sno": 78,
+    "authors": "G K Perekattu, C Balaji",
+    "title": "On the onset of natural convection in differentially heated shallow fluid layers with internal heat generation",
+    "journal": "International Journal of Heat and Mass Transfer, 52, 4254–4263 (2009)"
+  },
+  {
+    "sno": 77,
+    "authors": "C Balaji, M Deiveegan, S P Venkateshan, R M Gairola, A Sarkar, V K Agarwal",
+    "title": "Polarized microwave forward model simulations for tropical storm Fanoos",
+    "journal": "Journal of Earth System Science, 118, 331–343 (2009)"
+  },
+  {
+    "sno": 76,
+    "authors": "T V Radhakrishnan, G Joseph, C Balaji, S P Venkateshan",
+    "title": "Effect of baffle on convective heat transfer from a heat generating element in a ventilated cavity",
+    "journal": "Heat and Mass Transfer, 45, 1069–1082 (2009)"
+  },
+  {
+    "sno": 75,
+    "authors": "T V V Sudhakar, C Balaji, S P Venkateshan",
+    "title": "Optimal configuration of discrete heat sources in a vertical duct under conjugate mixed convection using artificial neural networks",
+    "journal": "International Journal of Thermal Sciences, 48, 881–890 (2009)"
+  },
+  {
+    "sno": 74,
+    "authors": "A K Sharma, K Velusamy, C Balaji",
+    "title": "Turbulent natural convection of sodium in a cylindrical enclosure with multiple internal heat sources",
+    "journal": "International Journal of Heat and Mass Transfer, 52, 2858–2870 (2009)"
+  },
+  {
+    "sno": 73,
+    "authors": "G Venugopal, S Suryakant, C Balaji, S P Venkateshan",
+    "title": "A hybrid optimization technique for developing heat transfer correlations based on transient experiments",
+    "journal": "International Journal of Heat and Mass Transfer, 52, 1954–1964 (2009)"
+  },
+  {
+    "sno": 72,
+    "authors": "S R Candane, C Balaji, S P Venkateshan",
+    "title": "A comparison of quasi one-dimensional and two-dimensional ablation models for subliming ablators",
+    "journal": "Heat Transfer Engineering, 30, 229–236 (2009)"
+  },
+  {
+    "sno": 71,
+    "authors": "M Anandakrishnan, C Balaji",
+    "title": "CFD simulations of thermal and flow fields inside a desktop personal computer with multi-core processor",
+    "journal": "Engineering Applications of Computational Fluid Dynamics, 3, 279–286 (2009)"
+  },
+  {
+    "sno": 70,
+    "authors": "N Benarji, C Balaji, S P Venkateshan",
+    "title": "Optimum design of cross-flow shell and tube heat exchangers with low fin tubes",
+    "journal": "Heat Transfer Engineering, 29, 864–872 (2008)"
+  },
+  {
+    "sno": 69,
+    "authors": "G Venugopal, C Balaji, S P Venkateshan",
+    "title": "A correlation for laminar mixed convection from vertical plates using transient experiments",
+    "journal": "Heat and Mass Transfer, 44, 1417–1425 (2008)"
+  },
+  {
+    "sno": 68,
+    "authors": "A K Sharma, K Velusamy, C Balaji",
+    "title": "Conjugate transient natural convection in a cylindrical enclosure with internal volumetric heat generation",
+    "journal": "Annals of Nuclear Energy, 35, 1502–1514 (2008)"
+  },
+  {
+    "sno": 67,
+    "authors": "C B Saji, C Balaji, T Sundararajan",
+    "title": "Investigation of soot transport and radiative heat transfer in an ethylene jet diffusion flame",
+    "journal": "International Journal of Heat and Mass Transfer, 51, 4287–4299 (2008)"
+  },
+  {
+    "sno": 66,
+    "authors": "A K Sharma, K Velusamy, C Balaji",
+    "title": "Interaction of turbulent natural convection and surface thermal radiation in inclined square enclosures",
+    "journal": "Heat and Mass Transfer, 44, 1153–1170 (2008)"
+  },
+  {
+    "sno": 65,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "A temperature wall function for turbulent mixed convection from vertical, parallel plate channels",
+    "journal": "International Journal of Thermal Sciences, 47, 723–729 (2008)"
+  },
+  {
+    "sno": 64,
+    "authors": "M Deiveegan, C Balaji, S P Venkateshan",
+    "title": "A polarized microwave radiative transfer model for passive remote sensing",
+    "journal": "Atmospheric Research, 88, 277–293 (2008)"
+  },
+  {
+    "sno": 63,
+    "authors": "G Venugopal, M Deiveegan, C Balaji, S P Venkateshan",
+    "title": "Simultaneous retrieval of total hemispherical emissivity and specific heat from transient multimode heat transfer experiments",
+    "journal": "ASME Journal of Heat Transfer, 130, 061601 (2008)"
+  },
+  {
+    "sno": 62,
+    "authors": "S Parthasarathy, C Balaji",
+    "title": "Estimation of parameters in multi-mode heat transfer problems using Bayesian inference – Effect of noise and a priori",
+    "journal": "International Journal of Heat and Mass Transfer, 51, 2313–2334 (2008)"
+  },
+  {
+    "sno": 61,
+    "authors": "K T V S Abhiram, M Deiveegan, C Balaji, S P Venkateshan",
+    "title": "Multilayer differential discrete ordinate method for inhomogeneous participating media",
+    "journal": "International Journal of Heat and Mass Transfer, 51, 2628–2635 (2008)"
+  },
+  {
+    "sno": 60,
+    "authors": "R R Madadi, C Balaji",
+    "title": "Optimization of the location of multiple discrete heat sources in a ventilated cavity using artificial neural networks and micro genetic algorithm",
+    "journal": "International Journal of Heat and Mass Transfer, 51, 2299–2312 (2008)"
+  },
+  {
+    "sno": 59,
+    "authors": "V Swaminathan, R M Gairola, C Balaji, V K Agarwal, S P Venkateshan",
+    "title": "Inverse radiation problem to retrieve hydrometeors from satellite microwave radiances",
+    "journal": "International Journal of Heat and Mass Transfer, 51, 1933–1945 (2008)"
+  },
+  {
+    "sno": 58,
+    "authors": "N Benarji, C Balaji, S P Venkateshan",
+    "title": "Unsteady fluid flow and heat transfer over a bank of flat tubes",
+    "journal": "Heat and Mass Transfer, 44, 445–461 (2008)"
+  },
+  {
+    "sno": 57,
+    "authors": "S P Kuncha, C Balaji, H Ramachandran, B Srinivasan",
+    "title": "Distributed High Temperature Sensing Using Fiber Bragg Gratings",
+    "journal": "International Journal of Optomechatronics, 2, 4–15 (2008)"
+  },
+  {
+    "sno": 56,
+    "authors": "S R Candane, C Balaji, S P Venkateshan",
+    "title": "Aeroheating and ablation analysis on a spherical geometry in high-speed re-entry flow",
+    "journal": "International Journal of Heat and Technology, 25, 103–108 (2007)"
+  },
+  {
+    "sno": 55,
+    "authors": "A K Sharma, K Velusamy, C Balaji",
+    "title": "Turbulent natural convection in an enclosure with localized heating from below",
+    "journal": "International Journal of Thermal Sciences, 46, 1232–1241 (2007)"
+  },
+  {
+    "sno": 54,
+    "authors": "T V Radhakrishnan, A K Verma, C Balaji, S P Venkateshan",
+    "title": "An experimental and numerical investigation of mixed convection from a heat generating element in a ventilated cavity",
+    "journal": "Experimental Thermal and Fluid Science, 32, 502–520 (2007)"
+  },
+  {
+    "sno": 53,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "Determination of temperature wall functions for high Rayleigh number flows using asymptotics: A systematic approach",
+    "journal": "International Journal of Heat and Mass Transfer, 50, 3820–3831 (2007)"
+  },
+  {
+    "sno": 52,
+    "authors": "B N Hemanth, C Balaji",
+    "title": "Application of ACFD Approach to a System Level Thermal Simulation",
+    "journal": "International Journal of Heat and Technology, 25, 43–48 (2007)"
+  },
+  {
+    "sno": 51,
+    "authors": "R N Mathews, C Balaji, T Sundararajan",
+    "title": "Computation of conjugate heat transfer in the turbulent mixed convection regime in a vertical channel with multiple heat sources",
+    "journal": "Heat and Mass Transfer, 43, 1063–1074 (2007)"
+  },
+  {
+    "sno": 50,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "Nusselt number correlations for turbulent natural convection flows using asymptotic analysis of the near-wall region",
+    "journal": "ASME Journal of Heat Transfer, 129, 1100–1105 (2007)"
+  },
+  {
+    "sno": 49,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "A general methodology for treating mixed convection problems using asymptotic computational fluid dynamics",
+    "journal": "International Communications in Heat and Mass Transfer, 34, 682–691 (2007)"
+  },
+  {
+    "sno": 48,
+    "authors": "S R Candane, C Balaji, S P Venkateshan",
+    "title": "Ablation and aero-thermodynamic studies on thermal protection systems of sharp-nosed re-entry vehicles",
+    "journal": "ASME Journal of Heat Transfer, 129, 912–916 (2007)"
+  },
+  {
+    "sno": 47,
+    "authors": "S Verma, C Balaji",
+    "title": "Multi-parameter estimation in combined conduction radiation from a plane parallel participating medium using genetic algorithms",
+    "journal": "International Journal of Heat and Mass Transfer, 50, 1706–1714 (2007)"
+  },
+  {
+    "sno": 46,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "Entropy generation minimization in turbulent mixed convection flows",
+    "journal": "International Communications in Heat and Mass Transfer, 34, 544–552 (2007)"
+  },
+  {
+    "sno": 45,
+    "authors": "C Balaji, M Holling, H Herwig",
+    "title": "Combined laminar mixed convection and surface radiation using asymptotic computational fluid dynamics",
+    "journal": "Heat and Mass Transfer, 43, 567 (2007)"
+  },
+  {
+    "sno": 44,
+    "authors": "A K Sharma, K Velusamy, C Balaji, S P Venkateshan",
+    "title": "Conjugate turbulent natural convection with surface radiation in air filled rectangular enclosures",
+    "journal": "International Journal of Heat and Mass Transfer, 50, 625–639 (2007)"
+  },
+  {
+    "sno": 43,
+    "authors": "M Deiveegan, C Balaji, S P Venkateshan",
+    "title": "Comparison of various methods for simultaneous retrieval of surface emissivities and gas properties in gray participating media",
+    "journal": "ASME Journal of Heat Transfer, 128, 829–837 (2006)"
+  },
+  {
+    "sno": 42,
+    "authors": "S V Gopal, C Balaji",
+    "title": "Forced convection cooling of heat generating chips in a parallel plate channel containing a heat generating chip",
+    "journal": "International Journal of Heat and Technology, 24, 33–39 (2006)"
+  },
+  {
+    "sno": 41,
+    "authors": "B Premachandran, C Balaji",
+    "title": "Conjugate mixed convection with surface radiation from a horizontal channel with protruding heat sources",
+    "journal": "International Journal of Heat and Mass Transfer, 49, 3568–3582 (2006)"
+  },
+  {
+    "sno": 40,
+    "authors": "R N Mathews, C Balaji",
+    "title": "Numerical simulation of conjugate, turbulent mixed convection heat transfer in a vertical channel with discrete heat sources",
+    "journal": "International Communications in Heat and Mass Transfer, 33, 908–916 (2006)"
+  },
+  {
+    "sno": 39,
+    "authors": "B Premachandran, C Balaji",
+    "title": "A correlation for mixed convection heat transfer from converging, parallel and diverging channels with uniform volumetric heat generating plates",
+    "journal": "International Communications in Heat and Mass Transfer, 33, 350–356 (2006)"
+  },
+  {
+    "sno": 38,
+    "authors": "V Swaminathan, R M Gairola, C Balaji, S P Venkateshan",
+    "title": "Estimation of microwave radiation intensity from a multi layered cloud model",
+    "journal": "AIAA Journal of Thermophysics and Heat Transfer, 19, 343–352 (2005)"
+  },
+  {
+    "sno": 37,
+    "authors": "R Akhilesh, A Narasimhan, C Balaji",
+    "title": "Method to improve geometry for heat transfer enhancement in PCM composite heat sinks",
+    "journal": "International Journal of Heat and Mass Transfer, 48, 2759–2770 (2005)"
+  },
+  {
+    "sno": 36,
+    "authors": "B Premachandran, C Balaji",
+    "title": "Mixed convection heat transfer from a horizontal channel with protruding heat sources",
+    "journal": "Heat and Mass Transfer, 41, 510–518 (2005)"
+  },
+  {
+    "sno": 35,
+    "authors": "D Rakshit, C Balaji",
+    "title": "Thermodynamic optimization of conjugate convection from a finned channel using genetic algorithms",
+    "journal": "Heat and Mass Transfer, 41, 535–544 (2005)"
+  },
+  {
+    "sno": 34,
+    "authors": "D Rakshit, C Balaji",
+    "title": "Evaluation of candidate approaches in the study of conjugate convection from a fin array",
+    "journal": "International Communications in Heat and Mass Transfer, 32, 529–538 (2005)"
+  },
+  {
+    "sno": 33,
+    "authors": "A S Krishnan, B Premachandran, C Balaji, S P Venkateshan",
+    "title": "Combined experimental and numerical approaches to multi-mode heat transfer between vertical parallel plates",
+    "journal": "Experimental Thermal and Fluid Science, 29, 75–86 (2004)"
+  },
+  {
+    "sno": 32,
+    "authors": "P Vijayan, C Balaji",
+    "title": "Turbulent forced convection in a parallel plate channel with natural convection on the outside",
+    "journal": "International Communications in Heat and Mass Transfer, 31, 1027–1036 (2004)"
+  },
+  {
+    "sno": 31,
+    "authors": "A S Krishnan, C Balaji, S P Venkateshan",
+    "title": "An experimental correlation for combined convection and radiation between parallel vertical plates",
+    "journal": "ASME Journal of Heat Transfer, 126, 849–851 (2004)"
+  },
+  {
+    "sno": 30,
+    "authors": "A K Sharma, C Balaji",
+    "title": "A numerical study of natural convection from a localized heat source in the lower plenum of a fast breeder reactor under failed conditions",
+    "journal": "Heat and Mass Transfer, 40, 853–858 (2004)"
+  },
+  {
+    "sno": 29,
+    "authors": "D Rakshit, P Vijayan, C Balaji",
+    "title": "Multi criteria optimization of conjugate convection in a rectangular duct",
+    "journal": "International Journal of Heat and Technology, 22, 137–144 (2004)"
+  },
+  {
+    "sno": 28,
+    "authors": "V Swaminathan, C Balaji, S P Venkateshan",
+    "title": "Parameter estimation in a two-layer planar gray participating medium",
+    "journal": "AIAA Journal of Thermophysics and Heat Transfer, 18, 187–192 (2004)"
+  },
+  {
+    "sno": 27,
+    "authors": "K Venkatesh Vasudevan, K Karthikeyan, C Balaji, S P Venkateshan",
+    "title": "Conduction-Radiation Interaction in Rectangular Enclosures Containing Non-Gray Participating Media",
+    "journal": "International Journal of Transport Phenomena, 6, 247–264 (2004)"
+  },
+  {
+    "sno": 26,
+    "authors": "A S Krishnan, C Balaji, S P Venkateshan",
+    "title": "A synergistic approach to parameter estimation in multimode heat transfer",
+    "journal": "International Communications in Heat and Mass Transfer, 30, 515–524 (2003)"
+  },
+  {
+    "sno": 25,
+    "authors": "C Balaji, H Herwig",
+    "title": "The use of ACFD approach problems involving surface radiation and free convection",
+    "journal": "International Communications in Heat and Mass Transfer, 30, 251–259 (2003)"
+  },
+  {
+    "sno": 24,
+    "authors": "K Karthikeyan, C Balaji, S P Venkateshan",
+    "title": "Combined Conduction and Radiation in a Rectangular Enclosure Containing a Participating Medium",
+    "journal": "International Journal of Transport Phenomena, 5, 1–18 (2003)"
+  },
+  {
+    "sno": 23,
+    "authors": "C G Rao, C Balaji, S P Venkateshan",
+    "title": "Conjugate mixed convection with surface radiation in a vertical channel with symmetric and uniform wall heat generation",
+    "journal": "International Journal of Transport Phenomena, 5, 75–102 (2003)"
+  },
+  {
+    "sno": 22,
+    "authors": "B Laxminarayana, C Balaji, S Kumar Das",
+    "title": "Laminar natural convection in cylindrical annuli filled with a low Prandtl number fluid",
+    "journal": "International Journal of Heat and Technology, 20, 67–74 (2002)"
+  },
+  {
+    "sno": 21,
+    "authors": "M Sasikumar, C Balaji",
+    "title": "A holistic optimization of convecting-radiating fin systems",
+    "journal": "ASME Journal of Heat Transfer, 124, 1110–1116 (2002)"
+  },
+  {
+    "sno": 20,
+    "authors": "M Sasikumar, C Balaji",
+    "title": "Optimization of convective fin systems: A holistic approach",
+    "journal": "Heat and Mass Transfer, 39(1), 57–68 (2002)"
+  },
+  {
+    "sno": 19,
+    "authors": "C G Rao, C Balaji, S P Venkateshan",
+    "title": "Effect of surface radiation on conjugate mixed convection in a vertical channel with a discrete heat source in each wall",
+    "journal": "International Journal of Heat and Mass Transfer, 45, 3331–3347 (2002)"
+  },
+  {
+    "sno": 18,
+    "authors": "N Ramesh, C Balaji, S P Venkateshan",
+    "title": "An experimental study of natural convection and surface radiation in an open cavity",
+    "journal": "International Journal of Heat and Technology, 19, 89–94 (2001)"
+  },
+  {
+    "sno": 17,
+    "authors": "C G Rao, C Balaji, S P Venkateshan",
+    "title": "Conjugate mixed convection with surface radiation from a vertical plate with a discrete heat source",
+    "journal": "ASME Journal of Heat Transfer, 123, 698–702 (2001)"
+  },
+  {
+    "sno": 16,
+    "authors": "H S Aparajith, C Balaji, V R Raghavan",
+    "title": "Performance analysis of extended surfaces subjected to fouling",
+    "journal": "Heat and Mass Transfer, 37, 499–505 (2001)"
+  },
+  {
+    "sno": 15,
+    "authors": "N Ramesh, C Balaji, S P Venkateshan",
+    "title": "Effect of radiation on natural convection in an L-shaped corner",
+    "journal": "Experiments in Fluids, 28, 448–454 (2000)"
+  },
+  {
+    "sno": 14,
+    "authors": "C G Rao, C Balaji, S P Venkateshan",
+    "title": "Numerical study of laminar mixed convection from a vertical plate",
+    "journal": "International Journal of Transport Phenomena, 2, 143–157 (2000)"
+  },
+  {
+    "sno": 13,
+    "authors": "N Ramesh, C Balaji, S P Venkateshan",
+    "title": "Effect of boundary condition on natural convection in an enclosure",
+    "journal": "International Journal of Transport Phenomena, 1, 205–214 (1999)"
+  },
+  {
+    "sno": 12,
+    "authors": "V Rammohan Rao, C Balaji, S P Venkateshan",
+    "title": "Interferometric study of interaction of free convection with surface radiation in an L corner",
+    "journal": "International Journal of Heat and Mass Transfer, 40, 2941–2947 (1997)"
+  },
+  {
+    "sno": 11,
+    "authors": "K Sri Jayaram, C Balaji, S P Venkateshan",
+    "title": "Interaction of surface radiation and free convection in an enclosure with a vertical partition",
+    "journal": "ASME Journal of Heat Transfer, 119, 641–645 (1997)"
+  },
+  {
+    "sno": 10,
+    "authors": "C Balaji",
+    "title": "Discussion on Optimum Design of Radiating Rectangular Plate Fin Array Extending From a Plane Wall",
+    "journal": "ASME Journal of Heat Transfer, 119, 393 (1997)"
+  },
+  {
+    "sno": 9,
+    "authors": "C Balaji, K Sri Jayaram, S P Venkateshan",
+    "title": "Thermodynamic optimization of tubular space radiators",
+    "journal": "AIAA Journal of Thermophysics and Heat Transfer, 10, 705–707 (1996)"
+  },
+  {
+    "sno": 8,
+    "authors": "N Ramesh, C Balaji, S P Venkateshan",
+    "title": "Numerical analysis of a cavity radiator with mutual interaction",
+    "journal": "Applied Mathematical Modelling, 20, 476–484 (1996)"
+  },
+  {
+    "sno": 7,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Natural convection in L corners with surface radiation and conduction",
+    "journal": "ASME Journal of Heat Transfer, 118, 222–225 (1996)"
+  },
+  {
+    "sno": 6,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Combined conduction, convection and radiation in a slot",
+    "journal": "International Journal of Heat and Fluid Flow, 16, 139–144 (1995)"
+  },
+  {
+    "sno": 5,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Interaction of radiation with free convection in an open cavity",
+    "journal": "International Journal of Heat and Fluid Flow, 15, 317–324 (1994)"
+  },
+  {
+    "sno": 4,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Correlations for free convection and surface radiation in a square cavity",
+    "journal": "International Journal of Heat and Fluid Flow, 15, 249–251 (1994)"
+  },
+  {
+    "sno": 3,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Combined surface radiation and free convection in cavities",
+    "journal": "AIAA Journal of Thermophysics and Heat Transfer, 8, 373–376 (1994)"
+  },
+  {
+    "sno": 2,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Interaction of surface radiation with free convection in a square cavity",
+    "journal": "International Journal of Heat and Fluid Flow, 14, 260–267 (1993)"
+  },
+  {
+    "sno": 1,
+    "authors": "C Balaji, S P Venkateshan",
+    "title": "Discussion on Natural convection with radiation in a cavity with open top end",
+    "journal": "ASME Journal of Heat Transfer, 115, 1993"
+  }
+],
+"national": [
+    {
+      "sno": 8,
+      "authors": "C. Balaji, B. Laxminarayana, Sarit Kumar Das",
+      "title": "Mixed Convection of a Low Prandtl Number Fluid Flowing in a Vertical Cylindrical Annulus",
+      "journal": "Journal of Energy, Heat and Mass Transfer, 25 (2003), 117–134"
+    },
+    {
+      "sno": 7,
+      "authors": "Stephen D’Silva, C. Balaji",
+      "title": "Thermal Entry Lengths for Internal Flows in Axially Finned and Unfinned Tubes",
+      "journal": "Journal of Energy, Heat and Mass Transfer, 24 (2002), 31–45"
+    },
+    {
+      "sno": 6,
+      "authors": "V. Pranav, S. Anil Kumar, C. Balaji",
+      "title": "Optimization of Natural Convection Heat Transfer from a Horizontal Cylinder with External Longitudinal Fins",
+      "journal": "Journal of Energy, Heat and Mass Transfer, 24 (2002), 269–279"
+    },
+    {
+    "sno": 5,
+    "authors": "R. Binesh, C. Balaji",
+    "title": "Numerical Simulation of Heat Transfer and Entropy Generation of Convecting Longitudinal Fin Systems",
+    "journal": "Journal of Energy, Heat and Mass Transfer, 23 (2001), 275-294"
+  },
+  {
+    "sno": 4,
+    "authors": "V. Perumallu, C. Balaji",
+    "title": "A Numerical Simulation of Natural Convection from External Longitudinal Fin over a Horizontal Cylinder",
+    "journal": "Journal of Energy, Heat and Mass Transfer, 23 (2001), 417-433"
+  },
+  {
+    "sno": 3,
+    "authors": "C. Balaji, S. P. Venkateshan",
+    "title": "Natural Convection and Wall Radiation in Tall Cavities",
+    "journal": "Journal of Energy, Heat and Mass Transfer, 22 (2000), 171-175"
+  },
+  {
+    "sno": 2,
+    "authors": "M. Sharath Babu, C. Balaji, S. P. Venkateshan",
+    "title": "Design of Tubular Space Radiators Based on Thermodynamic Optimization and Mass Minimization",
+    "journal": "Journal of Energy, Heat and Mass Transfer, 22 (2000), 83-87"
+  },
+  {
+    "sno": 1,
+    "authors": "C. Balaji",
+    "title": "Thermodynamic Optimization of an Ammonia Based Rankine Cycle",
+    "journal": "Journal of Energy, Heat and Mass Transfer, 19 (1997), 265-272"
+  }
+ ]
+}
+
+  

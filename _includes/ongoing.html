@@ -1,0 +1,161 @@
+<section class="ongoing-projects">
+  <div class="overlay"></div>
+
+  <div class="project-content">
+
+    <!-- PROJECT 1 -->
+    <div class="project-item active">
+      <h5 class="section-subtitle">
+        <span>Ongoing Projects</span>
+      </h5>
+
+      <p class="project-title">
+        Mass based hygrocopicity of ambient aerosols under contrasting
+        environment over eastern coast of India: Measurements and modeling
+        in view of northeastern monsoon
+      </p>
+
+      <p class="project-duration">10 yrs (2018–2028)</p>
+      <p class="project-agency">DST, Govt. of India.</p>
+    </div>
+
+    <!-- PROJECT 2 -->
+    <div class="project-item">
+      <h5 class="section-subtitle">
+         <span>Ongoing Projects</span>
+      </h5>
+
+      <p class="project-title">
+        Laboratory for Atmospheric and Climate Sciences
+      </p>
+
+      <p class="project-duration">6 yrs (2021–2027)</p>
+      <p class="project-agency">Ministry of Education, New Delhi</p>
+    </div>
+
+    <!-- PROJECT 3 -->
+    <div class="project-item">
+      <h5 class="section-subtitle">
+        <span>Ongoing Projects</span>
+      </h5>
+
+      <p class="project-title">
+        Climate Change Impacts on Coastal Infrastructure and the
+        Adaptation Strategies
+      </p>
+
+      <p class="project-duration">6 yrs (2021–2027)</p>
+      <p class="project-agency">
+        Department of Science and Technology, New Delhi
+      </p>
+    </div>
+
+    <!-- DOTS -->
+    <div class="project-dots">
+      <span class="dot active"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </div>
+
+  </div>
+</section>
+
+<script>
+  const projects = document.querySelectorAll('.project-item');
+  const dots = document.querySelectorAll('.project-dots .dot');
+  let index = 0;
+
+  function showProject(i) {
+    projects.forEach(p => p.classList.remove('active'));
+    dots.forEach(d => d.classList.remove('active'));
+    projects[i].classList.add('active');
+    dots[i].classList.add('active');
+  }
+
+  dots.forEach((dot, i) => {
+    dot.addEventListener('click', () => {
+      index = i;
+      showProject(index);
+    });
+  });
+
+  setInterval(() => {
+    index = (index + 1) % projects.length;
+    showProject(index);
+  }, 6000);
+</script>
+
+<style>
+
+/* Ongoing Projects Section */
+.ongoing-projects {
+  position: relative;
+  min-height: 420px;
+  background: url('assets/img/banner1.jpeg') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+.ongoing-projects .overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.project-content {
+  position: relative;
+  max-width: 900px;
+  padding: 20px;
+  z-index: 1;
+}
+
+.section-subtitle {
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.section-subtitle span {
+  color: #e53935;
+}
+
+.project-title {
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.project-duration,
+.project-agency {
+  font-size: 15px;
+}
+
+.project-item {
+  display: none;
+}
+
+.project-item.active {
+  display: block;
+}
+
+.project-dots {
+  margin-top: 25px;
+}
+
+.project-dots .dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 0 6px;
+  background: #bbb;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.project-dots .dot.active {
+  background: #e53935;
+}
+</style>

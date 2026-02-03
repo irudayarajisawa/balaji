@@ -1,0 +1,142 @@
+<section id="scrollspyHero"
+         class="bsb-hero-2 bsb-tpl-bg-blue pt-5 pt-xl-8 pb-3">
+
+  <div class="container">
+    <div class="row align-items-center justify-content-between">
+
+      <!-- =========================
+           LEFT CONTENT
+      ========================== -->
+      <div class="col-12 col-lg-6">
+
+        <h1 class="display-4 fw-bolder mb-3">
+          Dr. C. Balaji
+        </h1>
+
+        <p class="fs-4 mb-4">
+          Dr. C. Balaji is currently the T.T. Narendran Institute Chair Professor
+          and Head of the Mechanical Engineering Department at the
+          Indian Institute of Technology (IIT) Madras.
+        </p>
+
+        <!-- =========================
+             BUTTONS (2 ROW CENTERED)
+        ========================== -->
+        <div class="hero-buttons mt-4">
+
+          <!-- ROW 1 -->
+          <div class="hero-btn-row">
+            <a href="files/biodata.pdf"
+               target="_blank"
+               class="btn btn-primary rounded-pill hero-btn">
+              Bio Data
+            </a>
+
+            <a href="files/onepage.pdf"
+               target="_blank"
+               class="btn btn-outline-primary rounded-pill hero-btn">
+              One Page
+            </a>
+
+            <a href="https://orcid.org/0000-0003-3010-8701"
+               target="_blank"
+               class="btn btn-outline-primary rounded-pill hero-btn">
+              ORCID
+            </a>
+          </div>
+
+          <!-- ROW 2 -->
+          <div class="hero-btn-row">
+            <a href="https://youtube.com/@mechanicalengineer7341?si=7yI6RxWOUQjeCCKh"
+               target="_blank"
+               class="btn btn-outline-primary rounded-pill hero-btn">
+              YouTube
+            </a>
+
+            <!-- NEW MD PAGE LINK -->
+            <a href="/invitedlectures.html"
+               class="btn btn-outline-primary rounded-pill hero-btn">
+              Invited Lectures
+            </a>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- =========================
+           RIGHT IMAGE
+      ========================== -->
+      <div class="col-12 col-lg-5 d-flex justify-content-center mt-5 mt-lg-0">
+        <img
+          src="assets/img/balaji.jpg"
+          alt="Dr. C. Balaji"
+          class="hero-profile-img"
+          loading="lazy">
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- =========================
+     CUSTOM STYLES
+========================== -->
+<style>
+
+/* ================================
+   HERO BUTTONS – 2 ROW CENTERED
+================================ */
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.hero-btn-row {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  padding: 10px 18px;
+  font-size: 15px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* ================================
+   HERO PROFILE IMAGE
+================================ */
+.hero-profile-img {
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.25);
+}
+
+/* ================================
+   MOBILE OPTIMIZATION
+================================ */
+@media (max-width: 576px) {
+  .hero-btn-row {
+    gap: 10px;
+  }
+
+  .hero-profile-img {
+    width: 100%;
+    height: auto;
+    max-width: 320px;
+  }
+}
+
+/* Reduce bottom spacing */
+#scrollspyHero {
+  padding-bottom: 5rem !important;
+}
+
+</style>
+
