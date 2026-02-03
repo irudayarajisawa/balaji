@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title:
-permalink: /aboutme
+permalink: "/aboutme"
 ---
 
 <div class="row mb-5 mt-5">
