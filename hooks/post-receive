@@ -1,8 +1,0 @@
-#!/bin/bash
-git --work-tree=/home/faculty/balaji --git-dir=/home/faculty/balaji checkout -f
-cd /home/faculty/balaji
-#bundle install
-JEKYLL_ENV=production bundle exec jekyll build
-sudo rsync -av --delete _site/ /home/administrator/balaji/
-#sudo chown -R www-www-data /var/www/html/mysite
-#sudo systemctl reload apache2
