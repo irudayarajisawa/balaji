@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title:
-permalink: /publications
+permalink: "/publications"
 ---
 
 <!-- =========================
@@ -10,7 +10,7 @@ permalink: /publications
 
 <div class="row mb-5 mt-5">
   <div class="col-12 text-center">
-    <h2 class="fw-bold text-uppercase">Publications</h2>
+    <h2 class="fw-bold text-uppercase">Publications00</h2>
     <hr style="width:60px; height:3px; background:#c62828; margin:12px auto 0; border:none;">
   </div>
 </div>
@@ -134,4 +134,3 @@ permalink: /publications
   margin-top: 15px;
 }
 </style>
-
