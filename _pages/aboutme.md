@@ -72,7 +72,7 @@ permalink: "/aboutme"
   His areas of specialization include experimental and numerical
   heat transfer, radiative heat transfer, electronic cooling,
   satellite meteorology, numerical weather prediction, climate
-  modeling, and inverse heat transfer problems.
+  modeling.
 </p>
 
 
