@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title: 
-permalink: /patents
+permalink: "/patents"
 ---
 
 <div class="row mb-5 mt-5">
@@ -11,28 +11,33 @@ permalink: /patents
   </div>
 </div>
 
-
 <ul>
+
   <li>
-    <strong>DESIGN PATENT 332516-001</strong> (28/08/2020)<br>
-    Foot Operated Revamped Tap (FORT) Assembly to avoid the use of hands in existing washbasins, urinals to stop the spreading of contagious infections.<br>
-    <em>Status:</em> Pending – External, IIT Madras
+    <strong>IDF No. 2520</strong> (23/10/2024)<br>
+    Wearable Assistive Device for Hearing-Impaired people to convert Audio into Visual and Haptic Feedback.<br>
+    <em>Status:</em> Approval Pending<br>
+    <em>Note:</em> Tested on an actual subject with positive feedback.
   </li>
 
-  <br>
-
   <li>
-    <strong>DESIGN PATENT 331509-001</strong> (30/07/2020)<br>
-    A mechanical-based, cam-actuated automatic equipment that dispenses hand sanitizer in metered quantities.<br>
-    <em>Status:</em> Pending – External, IIT Madras
+    <strong>DESIGN PATENT 332516-001</strong> (28/08/2020)<br>
+    Foot Operated Revamped Tap (FORT) Assembly to avoid the use of hands in existing washbasins and urinals to stop the spreading of contagious infections.
   </li>
 
   <br>
 
   <li>
     <strong>DESIGN PATENT 332517-001</strong> (28/08/2020)<br>
-    Foot Operated Revamped Tap (FORT) Assembly to avoid the use of hands in existing washbasins and urinals to stop the spreading of contagious infections.<br>
-    <em>Status:</em> Pending – External, IIT Madras
+    Foot Operated Revamped Tap (FORT) Assembly to avoid the use of hands in existing washbasins to stop the spreading of contagious infections.
+  </li>
+
+  <br>
+
+  <li>
+    <strong>DESIGN PATENT 331509-001</strong> (30/07/2020)<br>
+    Automatic dispenser for hand sanitizer - A mechanical-based, cam-actuated automatic equipment that dispenses hand sanitizer in metered quantities.<br>
+    <em>Note:</em> 11 such devices were installed during the COVID period across the campus.
   </li>
 
   <br>
@@ -42,5 +47,14 @@ permalink: /patents
     Cylindrical heat sinks with air and N-eicosane subject to rotation.<br>
     <em>Status:</em> Published
   </li>
-</ul>
 
+  <br>
+
+  <li>
+    <strong>IP 201741018559</strong><br>
+    Srikanth R and C. Balaji, “Cylindrical heat sink with air and n-eicosane subject to rotation”.<br>
+    <em>Status:</em> Patent Filed
+  </li>
+
+  <br>
+</ul>
