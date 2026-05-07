@@ -1,0 +1,182 @@
+{
+  "projects": [
+    {
+      "sno": 1,
+      "title": "Design of a Ventilation System",
+      "duration": "One month (1992)",
+      "organisation": "Chevro Leathers, Madras"
+    },
+    {
+      "sno": 2,
+      "title": "Curriculum development project: Computer Aided Module in Conduction and Radiation Heat Transfer",
+      "duration": "1 year (1998-1999)",
+      "organisation": "Center for Continuing Education, IIT Madras"
+    },
+    {
+      "sno": 3,
+      "title": "Development of a General Purpose Computer Program for estimation of Radiant Heat Flux in Solid Rocket Motor",
+      "duration": "2 years (1999-2001)",
+      "organisation": "VSSC, ISRO"
+    },
+    {
+      "sno": 4,
+      "title": "Thermal Hydraulic Investigations of Thermal Stripping in the Hot and Cold Pools of LMFBR",
+      "duration": "2 years (2000-2002)",
+      "organisation": "IGCAR, Kalpakkam"
+    },
+    {
+      "sno": 5,
+      "title": "Development of a Generalized Radiative Transfer Model including Scattering for Retrieval of Geophysical Parameters from Microwave Remote Sensing Observation from Satellites",
+      "duration": "2 years (2002-2004)",
+      "organisation": "SAC, ISRO"
+    },
+    {
+      "sno": 6,
+      "title": "Development of Computer Aided Instructional Material for Design and Optimization of Energy Systems",
+      "duration": "1 year (2003-2004)",
+      "organisation": "Center for Continuing Education, IIT Madras"
+    },
+    {
+      "sno": 7,
+      "title": "Development of a Heat Transfer Model for the Active Cooling of a Hypersonic Technology Demonstration Vehicle (HSTDV) Engine",
+      "duration": "1 year (2003-2004)",
+      "organisation": "DRDL, Hyderabad"
+    },
+    {
+      "sno": 8,
+      "title": "Thermal design of air-preheater system for Hypersonic wind tunnel",
+      "duration": "1 year (2003-2004)",
+      "organisation": "DRDL, Hyderabad"
+    },
+    {
+      "sno": 9,
+      "title": "Design of cooling system for air of the proposed hypersonic wind tunnel facility",
+      "duration": "1 year (2004-2005)",
+      "organisation": "DRDL, Hyderabad"
+    },
+    {
+      "sno": 10,
+      "title": "Development of a Generalized Radiative Transfer Model Including Polarization and Robust Retrieval Algorithms to Obtain Geophysical Parameters Over Sea and Land Surfaces Using Microwave Remote Sensing Data",
+      "duration": "2 years (2004-2006)",
+      "organisation": "SAC, ISRO"
+    },
+    {
+      "sno": 11,
+      "title": "Distributed High Temperature Sensor for Flue Gas Monitoring – Technology Recommendation (RBIC)",
+      "duration": "6 months (2006-2007)",
+      "organisation": "BHEL, Trichy"
+    },
+    {
+      "sno": 12,
+      "title": "Study on Departure from Nucleate Boiling and Tube Dry out, Metal Temperature Calculation, Heat Transfer Correlation and Flow Instability for Super Critical Once Through Boilers",
+      "duration": "3 years (2004-2007)",
+      "organisation": "BHEL, Trichy"
+    },
+    {
+      "sno": 13,
+      "title": "Development of geophysical retrieval schemes and validation of data for the Megha Tropiques mission",
+      "duration": "5 years (2007-2013)",
+      "organisation": "SAC, ISRO"
+    },
+    {
+      "sno": 14,
+      "title": "Retrieval of atmospheric temperature and humidity profiles from satellite infrared sounder observations",
+      "duration": "3 years (2007-2010)",
+      "organisation": "SAC, ISRO"
+    },
+    {
+      "sno": 15,
+      "title": "New Method of Multi-Satellite radiance assimilation in regional models",
+      "duration": "4 years (2010-2014)",
+      "organisation": "DST"
+    },
+    {
+      "sno": 16,
+      "title": "Estimation of Anisotropic Conductivity of plates using the inverse heat transfer method",
+      "duration": "2 years (2010-2012)",
+      "organisation": "ISAC, ISRO"
+    },
+    {
+      "sno": 17,
+      "title": "Estimation of Anisotropic Conductivity of plates using the inverse heat transfer method (2nd Phase)",
+      "duration": "3 years (2012-2015)",
+      "organisation": "ISAC, ISRO"
+    },
+    {
+      "sno": 18,
+      "title": "Estimation of Spectral Radiation from Exhaust Plumes of Solid Rocket Motors",
+      "duration": "2 years (2014-2016)",
+      "organisation": "VSSC, ISRO"
+    },
+    {
+      "sno": 19,
+      "title": "Dynamic downscaling to study climate change impacts on water resources in India",
+      "duration": "2 years (2017-2019)",
+      "organisation": "Ministry of Water Resources, Govt. of India"
+    },
+    {
+      "sno": 20,
+      "title": "Multi-Satellite Radiance Assimilation to Improve Short to Medium Range Forecasts of the Indian Monsoon",
+      "duration": "3 years (2018-2021)",
+      "organisation": "Indian Institute of Tropical Meteorology, Pune"
+    },
+    {
+      "sno": 21,
+      "title": "Experimental and Numerical studies on improvised Combustor liner cooling methodology",
+      "duration": "4 years (2017-2021)",
+      "organisation": "COPT, DRDO"
+    },
+    {
+      "sno": 22,
+      "title": "Mass-based hygroscopicity of ambient aerosols under contrasting environment over the eastern coast of India",
+      "duration": "5 years (2018-2023)",
+      "organisation": "DST, Govt. of India"
+    },
+    {
+      "sno": 23,
+      "title": "Wind and Sea-swell Spectral Data Assimilation to improve Wind and Wave prediction using Satellite Data",
+      "duration": "2 years (2021-2023)",
+      "organisation": "ISRO"
+    },
+    {
+      "sno": 24,
+      "title": "Climate change impacts on coastal infrastructure and the adaptation strategies",
+      "duration": "5 years (2021-2026)",
+      "organisation": "DST, Govt. of India"
+    },
+    {
+      "sno": 25,
+      "title": "Laboratory for Atmospheric and Climatic Sciences",
+      "duration": "5 years (2021-2026)",
+      "organisation": "Ministry of Education, Government of India"
+    },
+    {
+      "sno": 26,
+      "title": "S. Ramakrishnan Centre of Excellence",
+      "duration": "Initiated in 2024",
+      "organisation": "ISRO"
+    },
+    {
+      "sno": 27,
+      "title": "High-Resolution Wind Forecasting Using Integrated Forecast System Data and Advanced Downscaling Techniques",
+      "duration": "Initiated in 2024",
+      "organisation": "Adani Wind"
+    }
+  ],
+
+  "leadership": [
+    "Chairman, Computer Center, IIT Madras (2014 – 2017)",
+    "National Coordinator, PMRF selections (2018 – 2021)",
+    "Sectional Committee, Energy – INAE (2014 – 2021)",
+    "Editor-in-Chief, IJTS (Elsevier Ltd, Oxford) since 2016",
+    "Organizing Secretary, Engineers Conclave, INAE 2016",
+    "Chairman, Library Advisory Committee (since July 2023)",
+    "Chairman – Task force for accelerating Ph.D outcomes",
+    "Member, Institute Faculty Screening Committee (5+ years)",
+    "Organizing Secretary, ASCHT – 2017",
+    "Core Committee Member, NFSG Committee (2022 – present)",
+    "Member, Academic Council, Sastra University (2014 – 2021)",
+    "Member, Research Advisory Committee, NCMRWF (2018 – 2021)",
+    "Member, Project Review and Monitoring Committee, AI-ML (2021 – 2024)"
+  ]
+}
