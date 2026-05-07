@@ -1,5 +1,29 @@
 {
   "international": [
+{
+    "sno": 237,
+    "authors": "VB Krishnadasan, P Suresh, C Balaji",
+    "title": "Thermal influence of inter-chip components in two-phase immersion cooling: An experimental and machine learning study",
+    "journal": "International Journal of Thermal Sciences, 2026, 223, 110560"
+  },
+  {
+    "sno": 236,
+    "authors": "Vasista, K.N., Rangarajan, S., Balaji, C.",
+    "title": "Reduced order modeling of minichannel and phase change material based hybrid cooling system: Establishing transient thermal limits",
+    "journal": "Applied Thermal Engineering, 2026, 286, 129331"
+  },
+  {
+    "sno": 235,
+    "authors": "J Jithu, KN Vasista, S Kumar, B Srinivasan, C Balaji",
+    "title": "A novel approach to estimate the specific heat capacity and volumetric heat generation of AMP20M1HD-A Li-ion pouch battery using MH-MCMC Bayesian inverse methodology",
+    "journal": "Applied Thermal Engineering, 2025, 281, 128632"
+  },
+  {
+    "sno": 234,
+    "authors": "VB Krishnadasan, P Suresh, C Balaji",
+    "title": "Experimental investigations on the performance and bubble dynamics of two-phase immersion cooling systems with multiple chips",
+    "journal": "International Journal of Heat and Mass Transfer, 2025, 245, 126977"
+  },
     {
       "sno": 233,
       "authors": "J Jithu, KN Vasista, S Kumar, B Srinivasan, C Balaji",
