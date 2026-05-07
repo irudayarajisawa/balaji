@@ -17,7 +17,10 @@
 
   "completed": {
     "phd": [
-      { "sno": 43, "name": "Sayan Majumdar", "title": "Advanced Thermal Management of Electronics and Li-ion Batteries Under Constant and Transient Heat Loads", "designation": "", "year": 2025 },
+    { "sno": 46, "name": "Kasavajhula Naga Vasista", "title": "Transient Thermal Management of Electronics Subjected to Power Surges", "designation": "-", "year": 2026 },
+    { "sno": 45, "name": "Krishnadasn V B", "title": "Experimental and Machine-Learning Study of Bubble Behavior and Heat Transfer in Multi-Chip Two-Phase Immersion Cooling", "designation": "-", "year": 2026 },
+    { "sno": 44, "name": "Jithu J", "title": "Estimation of Thermophysical Properties and Volumetric Heat Generation of a Pouch-Type Li-ion Battery using the Bayesian Method", "designation": "-", "year": 2025 },
+    { "sno": 43, "name": "Sayan Majumdar", "title": "Advanced Thermal Management of Electronics and Li-ion Batteries Under Constant and Transient Heat Loads", "designation": "", "year": 2025 },
     { "sno": 42, "name": "Pulipati Yeswanth", "title": "Improved Representation of High Resolution Gridded Rainfall Fields Using Remote Sensing for Urban Flood Modeling and Forecasting", "designation": "Project Officer, IIT Madras", "year": 2025 },
     { "sno": 41, "name": "Pratheek Suresh M", "title": "Thermal Management of Immersion Cooled Data Centres", "designation": "Post Doctoral Fellow", "year": 2024 },
     { "sno": 40, "name": "Krithiga S M", "title": "Development of an Improved Framework for Parameterization of Convective-Permitting Scale Medium-Range Ensemble Weather Forecasts and Assessing its Impact on Irrigation Water Management", "designation": "", "year": 2024 },
