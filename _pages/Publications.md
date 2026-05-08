@@ -4,10 +4,6 @@ layout: page
 permalink: "/publications"
 ---
 
-<!-- =========================
-     PAGE TITLE
-========================= -->
-
 <div class="row mb-5 mt-5">
   <div class="col-12 text-center">
     <h2 class="fw-bold text-uppercase">Publications</h2>
@@ -15,122 +11,152 @@ permalink: "/publications"
   </div>
 </div>
 
-<!-- =========================
-     DATATABLES CSS
-========================= -->
+<!-- DataTables CSS -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 
-<!-- =========================
-     COMMON SEARCH BAR
-========================= -->
+<!-- Search -->
 <div class="row mb-4">
   <div class="col-md-6 ms-auto">
-    <input
-      type="text"
-      id="commonSearch"
-      class="form-control"
-      placeholder="Search publications..."
-    >
+    <input type="text" id="commonSearch" class="form-control" placeholder="Search publications...">
   </div>
 </div>
 
-
-<!-- =========================
-     INTERNATIONAL JOURNALS
-========================= -->
-<h2 class="mb-3">International Journals</h2>
-
+<!-- ================= INTERNATIONAL ================= -->
+<h2>International Journals</h2>
 <div class="table-responsive">
 <table id="intlTable" class="table table-bordered publication-table">
-  <thead>
-    <tr>
-      <th style="width:60px;">S.No</th>
-      <th>Name of the Authors</th>
-      <th>Title of the Paper</th>
-      <th>Name of the Journal</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for item in site.data.publications.international %}
-    <tr>
-      <td>{{ item.sno }}</td>
-      <td>{{ item.authors }}</td>
-      <td>{{ item.title }}</td>
-      <td>{{ item.journal }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
+<thead>
+<tr>
+<th>S.No</th><th>Authors</th><th>Title</th><th>Journal</th>
+</tr>
+</thead>
+<tbody>
+{% for item in site.data.publications.international %}
+<tr>
+<td>{{ item.sno }}</td>
+<td>{{ item.authors | escape }}</td>
+<td>{{ item.title | escape }}</td>
+<td>{{ item.journal | escape }}</td>
+</tr>
+{% endfor %}
+</tbody>
 </table>
 </div>
 
-<hr class="my-5">
+<hr>
 
-<!-- =========================
-     NATIONAL JOURNALS
-========================= -->
-<h2 class="mb-3">National Journals</h2>
-
+<!-- ================= NATIONAL ================= -->
+<h2>National Journals</h2>
 <div class="table-responsive">
 <table id="natTable" class="table table-bordered publication-table">
-  <thead>
-    <tr>
-      <th style="width:60px;">S.No</th>
-      <th>Name of the Authors</th>
-      <th>Title of the Paper</th>
-      <th>Name of the Journal</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for item in site.data.publications.national %}
-    <tr>
-      <td>{{ item.sno }}</td>
-      <td>{{ item.authors }}</td>
-      <td>{{ item.title }}</td>
-      <td>{{ item.journal }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
+<thead>
+<tr>
+<th>S.No</th><th>Authors</th><th>Title</th><th>Journal</th>
+</tr>
+</thead>
+<tbody>
+{% for item in site.data.publications.national %}
+<tr>
+<td>{{ item.sno }}</td>
+<td>{{ item.authors | escape }}</td>
+<td>{{ item.title | escape }}</td>
+<td>{{ item.journal | escape }}</td>
+</tr>
+{% endfor %}
+</tbody>
 </table>
 </div>
 
-<!-- =========================
-     CUSTOM TABLE STYLES
-========================= -->
+<hr>
+
+<!-- ================= CONFERENCE ================= -->
+<h2>Conference Publications</h2>
+<div class="table-responsive">
+<table id="confTable" class="table table-bordered publication-table">
+<thead>
+<tr>
+<th>S.No</th><th>Authors</th><th>Title</th><th>Conference</th>
+</tr>
+</thead>
+<tbody>
+{% for item in site.data.publications.conference %}
+<tr>
+<td>{{ item.sno }}</td>
+<td>{{ item.authors | strip | escape }}</td>
+<td>{{ item.title | strip | escape }}</td>
+<td>{{ item.conference | strip | escape }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+
+<!-- ================= STYLES ================= -->
 <style>
 .publication-table {
-  width: 100%;
   font-size: 15px;
 }
 
 .publication-table th {
-  background-color: #f5f5f5;
-  font-weight: 600;
+  background: #f5f5f5;
 }
 
-.publication-table th,
-.publication-table td {
-  padding: 10px 12px;
-  vertical-align: top;
+#confTable td {
+  white-space: normal !important;
+  word-break: break-word;
 }
 
-.publication-table tbody tr:hover {
-  background-color: #fafafa;
-}
-
-/* Search box right aligned */
-.dataTables_filter {
-  float: right;
-  margin-bottom: 12px;
-}
-
-.dataTables_filter input {
-  margin-left: 6px;
-  padding: 4px 8px;
-  font-size: 14px;
-}
-
-/* Pagination spacing */
+/* Pagination */
 .dataTables_paginate {
-  margin-top: 15px;
+  text-align: center !important;
+  margin-top: 20px !important;
+}
+
+.dataTables_paginate .paginate_button.current {
+  background: #5b5b5b !important;
+  color: #fff !important;
 }
 </style>
+
+<!-- ================= DATATABLES JS ================= -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  function safeInit(id) {
+    const table = document.querySelector(id);
+    if (!table) return null;
+
+    // Prevent reinitialisation
+    if ($.fn.DataTable.isDataTable(id)) {
+      return $(id).DataTable();
+    }
+
+    return $(id).DataTable({
+      paging: true,
+      pageLength: 10,
+      lengthMenu: [5, 10, 25, 50],
+      ordering: false,
+      autoWidth: false
+    });
+  }
+
+  // 🔥 CRITICAL: initialize AFTER full render cycle
+  setTimeout(function () {
+    const intl = safeInit('#intlTable');
+    const nat  = safeInit('#natTable');
+    const conf = safeInit('#confTable');
+
+    // Search
+    document.getElementById('commonSearch').addEventListener('keyup', function () {
+      let val = this.value;
+      if (intl) intl.search(val).draw();
+      if (nat)  nat.search(val).draw();
+      if (conf) conf.search(val).draw();
+    });
+
+  }, 500); // 🔥 THIS FIXES YOUR 3rd TABLE
+
+});
+</script>

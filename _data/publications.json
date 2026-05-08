@@ -1,6 +1,6 @@
 {
   "international": [
-{
+  {
     "sno": 237,
     "authors": "VB Krishnadasan, P Suresh, C Balaji",
     "title": "Thermal influence of inter-chip components in two-phase immersion cooling: An experimental and machine learning study",
@@ -1472,7 +1472,617 @@
     "title": "Thermodynamic Optimization of an Ammonia Based Rankine Cycle",
     "journal": "Journal of Energy, Heat and Mass Transfer, 19 (1997), 265-272"
   }
- ]
+ ],
+
+"conference": [
+  {
+    "sno": 101,
+    "authors": "Jithu J, Kasavajhula Naga Vasista, Suraj Kumar, Balaji Srinivasan, C Balaji",
+    "title": "Estimation of thermophysical properties of a pouch-type Li-ion battery using an inverse methodology",
+    "conference": "9th European Thermal Sciences Conference (Eurotherm 2024), Lake Bled, Slovenia (2024)"
+  },
+  {
+    "sno": 100,
+    "authors": "Pratheek Suresh, Kasavajhula Naga Vasista, Shailesh Kushwaha, C Balaji",
+    "title": "Thermal management of multi-chip electronic module with wavy fin heat sink-assisted immersion cooling",
+    "conference": "9th European Thermal Sciences Conference (Eurotherm 2024), Lake Bled, Slovenia (2024)"
+  },
+  {
+    "sno": 99,
+    "authors": "Sayan Majumder, Rajesh Akula, B S Vennela, C Balaji",
+    "title": "Design of thermal management system for a battery pack with malfunctioning battery: A numerical parametric study",
+    "conference": "9th European Thermal Sciences Conference (Eurotherm 2024), Lake Bled, Slovenia (2024)"
+  },
+  {
+    "sno": 98,
+    "authors": "Krishnadasan V B, Pratheek Suresh, C Balaji",
+    "title": "Thermodynamic analysis of two-fluid, two-phase immersion cooling system for cooling of electronic components",
+    "conference": "9th European Thermal Sciences Conference (Eurotherm 2024), Lake Bled, Slovenia (2024)"
+  },
+  {
+    "sno": 97,
+    "authors": "Pratheek Suresh, Sai Ashwin, C Balaji",
+    "title": "Temperature forecasting for single-phase immersion cooling system based on machine learning",
+    "conference": "9th European Thermal Sciences Conference (Eurotherm 2024), Lake Bled, Slovenia (2024)"
+  },
+  {
+    "sno": 96,
+    "authors": "Pratheek Suresh, C Balaji",
+    "title": "Thermal prediction for two-phase immersion cooled data centres based on CNN-LSTM encoder-decoder networks",
+    "conference": "17th International Heat Transfer Conference (IHTC17-2023), Cape Town, South Africa"
+  },
+  {
+    "sno": 95,
+    "authors": "Sayan Majumder, Rajesh Akula, Balaji Chakravarthy",
+    "title": "Thermal management of electronics working on cyclic heat loads: An experimental study",
+    "conference": "17th International Heat Transfer Conference (IHTC17-2023), Cape Town, South Africa"
+  },
+  {
+    "sno": 94,
+    "authors": "Kasavajhula Naga Vasista, Rajesh Akula, C Balaji",
+    "title": "Thermal management of electronic chips using minichannel based hybrid cooling system for power surge heat loads",
+    "conference": "17th International Heat Transfer Conference (IHTC17-2023), Cape Town, South Africa"
+  },
+  {
+    "sno": 93,
+    "authors": "Ananda Prasanna Revulagadda, C Balaji, Arvind Pattamatta",
+    "title": "Effects of gas radiation and thermal barrier coating on the film cooling performance of an annular combustor",
+    "conference": "17th International Heat Transfer Conference (IHTC17-2023), Cape Town, South Africa"
+  },
+  {
+    "sno": 92,
+    "authors": "Kasavajhula Naga Vasista, Sayan Majumder, C Balaji",
+    "title": "Thermal management of high heat flux electronics subjected to power surge using a double layered wavy minichannel",
+    "conference": "5th International ISHMT-ASTFE Heat and Mass Transfer Conference 2023, IIT Patna, India"
+  },
+  {
+    "sno": 91,
+    "authors": "Baki Harish, C Balaji, Balaji Srinivasan",
+    "title": "Use of Machine Learning algorithms in evaluating the WRF model parameter sensitivity for the simulations of tropical cyclones",
+    "conference": "vEGU21, 23rd EGU General Assembly, Online, April 2021"
+  },
+  {
+    "sno": 90,
+    "authors": "A Buchi Raju, Ananda Prasanna Revulagadda, Arvind Pattamatta, C Balaji",
+    "title": "Numerical investigation on combined slot and effusion film cooling of an annular combustor liner",
+    "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2021), IIT Madras, India"
+  },
+  {
+    "sno": 89,
+    "authors": "Venakata Sai Anooj, Girish Kumar Marri, C Balaji",
+    "title": "Thermal performance of phase change material-based battery thermal management system with different geometries: A numerical study",
+    "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2021), IIT Madras, India"
+  },
+  {
+    "sno": 88,
+    "authors": "Venakata Sai Anooj, Girish Kumar Marri, C Balaji",
+    "title": "Machine learning methodology for diagnosis of phase change material-based thermal systems",
+    "conference": "Asian Symposium on Computational Heat Transfer and Fluid Flow, Qingdao, China, 2021"
+  },
+  {
+    "sno": 87,
+    "authors": "Suraj Kumar, C Balaji",
+    "title": "Sequential prediction of thermal conductivity, heat capacity and diffusivity using Bayesian inference in vacuum",
+    "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2021), IIT Madras, India"
+  },
+{
+  "sno": 86,
+  "authors": "Suraj Kumar, C Balaji",
+  "title": "Estimation of SS304 surface emissivity and heat flux using an inverse technique in high vacuum",
+  "conference": "8th Asian Symposium on Computational Heat Transfer and Fluid Flow, Qingdao, Sep 23-26, 2021"
+},
+{
+  "sno": 85,
+  "authors": "Rajesh Akula, C Balaji",
+  "title": "Characterization of PCM based heat sinks for various power surge durations and intervals: An experimental study",
+  "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference (IHMTC-2021), IIT Madras, Chennai, India"
+},
+{
+  "sno": 84,
+  "authors": "C Balaji, Rajesh Akula",
+  "title": "Thermal management of electronics working on periodic on-off cycles: A numerical study",
+  "conference": "International Conference on Advances in Applicable Mathematics (ICAAM-2020), Bharathiar University, Coimbatore, India"
+},
+{
+  "sno": 83,
+  "authors": "C Balaji, Krishnamoorthy C",
+  "title": "Ingesting multi-satellite radiances to improve the predictability of regional NWP model",
+  "conference": "International Conference on Ensemble Methods in Modelling and Data Assimilation, New Delhi, India, Feb 2020"
+},
+{
+  "sno": 82,
+  "authors": "Sandeep Chinta, C Balaji, V S Prasad",
+  "title": "GSI based three-dimensional ensemble-variational hybrid data assimilation to improve short-range prediction of Indian Summer Monsoon",
+  "conference": "International Conference on Ensemble Methods in Modelling and Data Assimilation, New Delhi, India, Feb 2020"
+},
+{
+  "sno": 81,
+  "authors": "P V Kiran, C Balaji",
+  "title": "Application of pseudo-global warming dynamic downscaling method to study climate change impacts on rainfall in Kerala",
+  "conference": "International Conference on Climate Services-6, Pune, India, Feb 2020"
+},
+{
+  "sno": 80,
+  "authors": "Girish Kumar Marri, C Balaji",
+  "title": "Experimental investigations on miniaturized PCM coupled heat pipe for cooling portable electronics",
+  "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference, IIT Roorkee, India, Dec 2019"
+},
+{
+  "sno": 79,
+  "authors": "Rajesh Akula, Srikanth Rangarajan, C Balaji",
+  "title": "Thermal management of transient power spikes using PCM based heat sinks: A numerical study",
+  "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference, IIT Roorkee, India, Dec 2019"
+},
+{
+  "sno": 78,
+  "authors": "Suraj Kumar, C Balaji",
+  "title": "Estimation of heat source strengths from discrete sources using Bayesian inference",
+  "conference": "ISHMT-ASTFE Heat and Mass Transfer Conference, IIT Roorkee, India, Dec 2019"
+},
+{
+  "sno": 77,
+  "authors": "Sandeep Chinta, C Balaji",
+  "title": "Adaptive surrogate model based optimization for improving heavy rainfall prediction during Indian Monsoon",
+  "conference": "International Workshop on Extreme Precipitation and Tropical Cyclones, Pune, India, Nov 2019"
+},
+{
+  "sno": 76,
+  "authors": "Baki Harish, C Balaji, Balaji Srinivasan",
+  "title": "GPM radar reflectivity assimilation in WRF model for tropical cyclones",
+  "conference": "International Workshop on Extreme Precipitation and Tropical Cyclones, Pune, India, Nov 2019"
+},
+{
+  "sno": 75,
+  "authors": "Sandeep Chinta, C Balaji, V S Prasad",
+  "title": "Impact of AMSU-A radiance assimilation on short range Indian Monsoon forecast",
+  "conference": "Joint Satellite Conference, Boston, USA, Sep 2019"
+},
+{
+  "sno": 74,
+  "authors": "Baki Harish, C Balaji, Balaji Srinivasan",
+  "title": "Evolution of WRF cloud parameterization schemes using GPM radar observations for cyclone Fani",
+  "conference": "International Conference on Radar Meteorology, Nara, Japan, Sep 2019"
+},
+{
+  "sno": 73,
+  "authors": "Sandeep CPR, C Balaji",
+  "title": "Impact of microwave radiance assimilation on short-range forecasts using Megha-Tropiques data",
+  "conference": "AMS Annual Meeting, Phoenix, USA, Jan 2019"
+},
+{
+  "sno": 72,
+  "authors": "Sangamesh C Godi, Anand Prasanna, Arvind Pattamatta, C Balaji",
+  "title": "Heat transfer characteristics of three-dimensional wall jets",
+  "conference": "National Aero Propulsion Conference, IIT Kharagpur, India, Dec 2018"
+},
+{
+  "sno": 71,
+  "authors": "Girish Kumar Marri, C Balaji",
+  "title": "PCM based cylindrical heat sink with heat pipe: experimental and numerical investigations",
+  "conference": "Fluid Mechanics and Fluid Power Conference, India, 2019"
+},
+{
+  "sno": 70,
+  "authors": "Karthik A Deo, C Balaji",
+  "title": "Calibration of thermochromic liquid crystal sheet using ANN",
+  "conference": "International Heat Transfer Conference (IHTC16), Beijing, China, 2018"
+},
+{
+  "sno": 69,
+  "authors": "E Amritha, Srikanth Rangarajan, C Balaji",
+  "title": "Thermal performance of heat sink with multiple PCMs",
+  "conference": "International Heat Transfer Conference (IHTC16), Beijing, China, 2018"
+},
+{
+  "sno": 68,
+  "authors": "Girish Kumar Marri, Srikanth Rangarajan, C Balaji",
+  "title": "Thermal performance of PCM cylindrical heat sink with multiple PCMs",
+  "conference": "International Heat Transfer Conference (IHTC16), Beijing, China, 2018"
+},
+{
+  "sno": 67,
+  "authors": "Rahul Yadav, C Balaji, S P Venkateshan",
+  "title": "Radiative transfer in axisymmetric geometries with anisotropic scattering",
+  "conference": "International Symposium on Computational Heat Transfer, Napoli, Italy, 2017"
+},
+{
+  "sno": 66,
+  "authors": "Pullarao M, C Balaji, S P Venkateshan",
+  "title": "Heat transfer from square jet with wire mesh",
+  "conference": "Thermal and Fluids Engineering Summer Conference, New York, USA, 2015"
+},
+{
+  "sno": 65,
+  "authors": "Sangamesh C Godi, Arvind Pattamatta, C Balaji",
+  "title": "Transient heat transfer measurements using liquid crystal thermography",
+  "conference": "ASME IMECE, Arizona, USA, 2016"
+},
+{
+  "sno": 64,
+  "authors": "Pradeep J S, C Balaji",
+  "title": "Estimation of heat transfer coefficient using Bayesian inference",
+  "conference": "European Thermal Sciences Conference, Krakow, Poland, 2016"
+},
+{
+  "sno": 63,
+  "authors": "Naresh Y, C Balaji",
+  "title": "Numerical investigation of two-phase closed thermosyphon",
+  "conference": "European Thermal Sciences Conference, Krakow, Poland, 2016"
+},
+{
+  "sno": 62,
+  "authors": "R Srikanth, Rohit S Nair, C Balaji",
+  "title": "Thermosyphon assisted melting of PCM in rectangular enclosure",
+  "conference": "European Thermal Sciences Conference, Krakow, Poland, 2016"
+},
+{
+  "sno": 61,
+  "authors": "C Krishnamoorthy, C Balaji",
+  "title": "Impact of localisation scales on microwave radiance assimilation",
+  "conference": "SPIE-APRS Conference, New Delhi, India, 2016"
+},
+{
+  "sno": 60,
+  "authors": "C Balaji, S P Venkateshan, Renju Kurian",
+  "title": "Heat transfer enhancement in plate channels with wire mesh inserts",
+  "conference": "Thermal and Fluids Engineering Summer Conference, New York, USA, 2015"
+},
+{
+  "sno": 59,
+  "authors": "C Balaji, Rohit S Nair",
+  "title": "Heat transfer enhancement of a finned wickless heat pipe based heat sink",
+  "conference": "ASME-ATI-UIT Conference on Thermal Energy Systems, Napoli, Italy, May 2015"
+},
+{
+  "sno": 58,
+  "authors": "Deepak Saini, C Balaji, S P Venkateshan",
+  "title": "Heat transfer and optimization studies on PCM based hybrid heat sinks with discrete protruding heat sources",
+  "conference": "ICHMT Symposium on Advances in Computational Heat Transfer, Rutgers University, USA, May 2015"
+},
+{
+  "sno": 57,
+  "authors": "Samarjeet Chanda, C Balaji, S P Venkateshan",
+  "title": "Benchmarking technique for estimating principal thermal conductivities of anisotropic composite medium",
+  "conference": "AIAA Thermophysics Conference, USA, June 2013"
+},
+{
+  "sno": 56,
+  "authors": "Tapano Kumar Hotta, C Balaji, S P Venkateshan",
+  "title": "Optimal distribution of discrete heat sources under mixed convection heat transfer",
+  "conference": "ASME Summer Heat Transfer Conference, Minneapolis, USA, July 2013"
+},
+{
+  "sno": 55,
+  "authors": "R Chandrasekar, Deepak Subramani, C Balaji",
+  "title": "Impact of combined TMI-PR observations in regional weather forecast models using Bayesian framework",
+  "conference": "Conference on Ensemble Methods in Geophysical Sciences, Toulouse, France, Nov 2012"
+},
+{
+  "sno": 54,
+  "authors": "Rajesh Baby, C Balaji",
+  "title": "Thermal management of electronics using PCM based pin fin heat sinks",
+  "conference": "European Thermal Sciences Conference, Poitiers, France, Sep 2012"
+},
+{
+  "sno": 53,
+  "authors": "B Konda Reddy, N Gnanasekaran, C Balaji",
+  "title": "Estimation of thermophysical properties using liquid crystal thermography and Bayesian inference",
+  "conference": "European Thermal Sciences Conference, Poitiers, France, Sep 2012"
+},
+{
+  "sno": 52,
+  "authors": "R Chandrasekar, Chaitanya S Paranjape, C Balaji",
+  "title": "Track forecasting of tropical cyclones using 3DVAR data assimilation techniques",
+  "conference": "OCHAMP Conference, Pune, India, Feb 2012"
+},
+{
+  "sno": 51,
+  "authors": "K Srinivasa Ramanujam, Deepak Subramani, C Balaji",
+  "title": "Profile matching algorithm using TRMM precipitation radar and microwave imager",
+  "conference": "OCHAMP Conference, Pune, India, Feb 2012"
+},
+{
+  "sno": 50,
+  "authors": "Velusamy K, Anoop B, C Balaji",
+  "title": "Comparative analysis of heat transfer in serrated and solid finned tubes",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 49,
+  "authors": "Samarjeet Chanda, C Balaji",
+  "title": "Inverse analysis for estimation of thermal conductivity of orthotropic composite medium using ANN",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 48,
+  "authors": "S P Pathak, K Velusamy, C Balaji",
+  "title": "Conjugate heat transfer characteristics of finned tube heat exchanger in fast breeder reactors",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 47,
+  "authors": "Pradeep M Kamath, C Balaji, S P Venkateshan",
+  "title": "Effect of aspect ratio on mixed convection in porous form",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 46,
+  "authors": "Anil Kumar Sharma, B K, C Balaji",
+  "title": "Conjugate conduction, convection and radiation heat transfer from fins in fast reactors",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 45,
+  "authors": "U Parthasarathy, C Balaji",
+  "title": "Characterization of axial flow of liquid sodium over hexagonal and circular subassemblies",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 44,
+  "authors": "U Parthasarathy, C Balaji",
+  "title": "Estimation of inter-wrapper flow heat transfer on core temperatures using porous body model",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 43,
+  "authors": "B Konda Reddy, N Gnanasekaran, C Balaji",
+  "title": "Simultaneous estimation of multiple parameters using liquid crystal thermography",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 42,
+  "authors": "Shaik Imran Ahamed, C Balaji",
+  "title": "Simpler thermal model for mixed convection from protruding heat sources",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 41,
+  "authors": "Rajesh Baby, C Balaji",
+  "title": "Performance improvement of portable electronics using PCM filled heat sinks",
+  "conference": "ISHMT-ASME Heat and Mass Transfer Conference, Madras, India, 2011"
+},
+{
+  "sno": 40,
+  "authors": "R Chandrasekar, Chaitanya S Paranjape, C Balaji",
+  "title": "Track forecasting of tropical cyclones using 3DVAR data assimilation",
+  "conference": "OCHAMP Conference, Pune, India, 2012"
+},
+{
+  "sno": 39,
+  "authors": "K Srinivasa Ramanujam, Deepak Subramani, C Balaji",
+  "title": "TRMM precipitation radar and microwave imager profile matching",
+  "conference": "OCHAMP Conference, Pune, India, 2012"
+},
+{
+  "sno": 38,
+  "authors": "C Balaji, K Srinivasa Ramanujam",
+  "title": "Retrieval of rainfall from Megha-Tropiques microwave imager",
+  "conference": "IEEE GRSS Conference, Vancouver, Canada, July 2011"
+},
+{
+  "sno": 37,
+  "authors": "N Gnanasekaran, C Balaji",
+  "title": "Estimation of parameters in transient cooling using Bayesian method",
+  "conference": "ISHMT-ASME Conference, Mumbai, India, 2010"
+},
+{
+  "sno": 36,
+  "authors": "N Gnanasekaran, C Balaji",
+  "title": "Correlation for Nusselt number under turbulent mixed convection",
+  "conference": "ASME Heat Transfer Conference, Washington DC, USA, 2010"
+},
+{
+  "sno": 35,
+  "authors": "Pradeep Kamath, C Balaji, S P Venkateshan",
+  "title": "Experimental investigation of mixed convection in porous foams",
+  "conference": "ThETA Conference, Cairo, Egypt, 2010"
+},
+{
+  "sno": 34,
+  "authors": "K Srinivasa Ramanujam, C Balaji",
+  "title": "Fast polarized microwave radiative transfer model",
+  "conference": "International Heat Transfer Conference, Washington DC, USA, 2010"
+},
+{
+  "sno": 33,
+  "authors": "Venugopal G, C Balaji, S P Venkateshan",
+  "title": "Inverse thermal problem for simultaneous estimation of thermal properties",
+  "conference": "ISHMT-ASME Conference, Mumbai, India, 2010"
+},
+{
+  "sno": 32,
+  "authors": "C Balaji et al",
+  "title": "Information content of TRMM precipitation radar and radiometer observations",
+  "conference": "IGARSS, Hawaii, USA, 2010"
+},
+{
+  "sno": 31,
+  "authors": "C Balaji et al",
+  "title": "Neural network model for microwave brightness temperature simulation",
+  "conference": "Megha-Tropiques Conference, Bangalore, India, 2009"
+},
+{
+  "sno": 30,
+  "authors": "K Srinivasa Ramanujam, C Balaji",
+  "title": "Rain screening algorithm using microwave brightness temperatures",
+  "conference": "Megha-Tropiques Conference, Bangalore, India, 2009"
+},
+{
+  "sno": 29,
+  "authors": "Anil Kumar Sharma et al",
+  "title": "Buoyancy driven flow in vertical annuli",
+  "conference": "ISHMT-ASME Conference, Hyderabad, India, 2008"
+},
+{
+  "sno": 28,
+  "authors": "G Venugopal, C Balaji, S P Venkateshan",
+  "title": "Natural convection with surface radiation in open cavity",
+  "conference": "ISHMT-ASME Conference, Hyderabad, India, 2008"
+},
+{
+  "sno": 27,
+  "authors": "M Ananda Krishnan, C Balaji",
+  "title": "Thermal simulations of desktop computer",
+  "conference": "ISHMT-ASME Conference, Hyderabad, India, 2008"
+},
+{
+  "sno": 26,
+  "authors": "C B Saji, C Balaji, T Sundarrajan",
+  "title": "Numerical investigation of laminar jet diffusion flame",
+  "conference": "Computational Heat and Mass Transfer Conference, Canada, 2007"
+},
+{
+  "sno": 25,
+  "authors": "K T V S Abhiram, M Deiveegan, C Balaji",
+  "title": "Multilayer radiative transfer model for atmospheric applications",
+  "conference": "Computational Heat and Mass Transfer Conference, Canada, 2007"
+},
+{
+  "sno": 24,
+  "authors": "T V V Sudhakar, C Balaji, S P Venkateshan",
+  "title": "Three-dimensional conjugate convection with protruding heat source",
+  "conference": "Computational Heat and Mass Transfer Conference, Canada, 2007"
+},
+{
+  "sno": 23,
+  "authors": "M Deiveegan, C Balaji, S P Venkateshan",
+  "title": "Comparison of discrete ordinate and finite volume methods in radiative transfer",
+  "conference": "ISHMT-ASME Conference, IIT Guwahati, India, 2006"
+},
+{
+  "sno": 22,
+  "authors": "S Rameche Candane, C Balaji, S P Venkateshan",
+  "title": "Transient heat transfer analysis for high speed flow in divergent duct",
+  "conference": "ISHMT-ASME Conference, IIT Guwahati, India, 2006"
+},
+{
+  "sno": 21,
+  "authors": "S Rameche Candane, C Balaji, S P Venkateshan",
+  "title": "CFD analysis of actively cooled scramjet engines",
+  "conference": "MIT Chennai Conference, India, 2006"
+},
+{
+  "sno": 20,
+  "authors": "V Swaminathan, C Balaji, S P Venkateshan",
+  "title": "ANN and GA based retrieval of atmospheric parameters",
+  "conference": "ISHMT-ASME Conference, IIT Guwahati, India, 2006"
+},
+{
+  "sno": 19,
+  "authors": "S Rameche Candane, C Balaji, S P Venkateshan",
+  "title": "Active cooling system for supersonic nozzle",
+  "conference": "International Heat Transfer Conference, Sydney, Australia, 2006"
+},
+{
+  "sno": 18,
+  "authors": "M Deiveegan, V Swaminathan, C Balaji, S P Venkateshan",
+  "title": "Bayesian algorithm for atmospheric parameter retrieval",
+  "conference": "International Heat Transfer Conference, Sydney, Australia, 2006"
+},
+{
+  "sno": 17,
+  "authors": "S P Venkateshan, C Balaji",
+  "title": "Interaction of radiation with other modes of heat transfer",
+  "conference": "International Heat Transfer Conference, Sydney, Australia, 2006"
+},
+{
+  "sno": 16,
+  "authors": "Anil Kumar Sharma, C Balaji, S E Kannan",
+  "title": "Enhancement of annular chimney natural convection heat transfer",
+  "conference": "Nuclear Reactor Thermal Hydraulics Meeting, France, 2005"
+},
+{
+  "sno": 15,
+  "authors": "Roy N Mathews, C Balaji",
+  "title": "Conjugate turbulent mixed convection in vertical channel",
+  "conference": "Computational Heat and Mass Transfer Conference, Paris, France, 2005"
+},
+{
+  "sno": 14,
+  "authors": "A K Sharma, C Balaji, S K Das, G Punitha",
+  "title": "Effect of chimney geometry on natural convection heat transfer",
+  "conference": "ISHMT-ASME Conference, Kalpakkam, India, 2004"
+},
+{
+  "sno": 13,
+  "authors": "B Premachandran, C Balaji",
+  "title": "Conjugate heat transfer from vertical channel with heat generating plates",
+  "conference": "ISHMT-ASME Conference, Kalpakkam, India, 2004"
+},
+{
+  "sno": 12,
+  "authors": "Dibakar Rakshit, C Balaji",
+  "title": "Heat transfer and thermodynamic optimization of rectangular channel",
+  "conference": "ISHMT-ASME Conference, Kalpakkam, India, 2004"
+},
+{
+  "sno": 11,
+  "authors": "C Gururaja Rao, C Balaji, S P Venkateshan",
+  "title": "Mixed convection in vertical channel with asymmetric heating",
+  "conference": "ISHMT-ASME Conference, Kolkata, India, 2002"
+},
+{
+  "sno": 10,
+  "authors": "K Siddharth Shankar, M Sasikumar, C Balaji",
+  "title": "Holistic optimization of convecting radiating duct",
+  "conference": "ISHMT-ASME Conference, Kolkata, India, 2002"
+},
+{
+  "sno": 9,
+  "authors": "Nikhil S Soman, C Balaji",
+  "title": "Natural convection from fins in cylindrical annulus",
+  "conference": "ISHMT-ASME Conference, Kolkata, India, 2002"
+},
+{
+  "sno": 8,
+  "authors": "N Ramesh, C Balaji, S P Venkateshan",
+  "title": "Natural convection and surface radiation in open cavity",
+  "conference": "World Conference on Experimental Heat Transfer, Greece, 2001"
+},
+{
+  "sno": 7,
+  "authors": "Ramesh, C Balaji, S P Venkateshan",
+  "title": "Interaction of surface radiation with natural convection",
+  "conference": "University of Central Florida Conference, USA, 1999"
+},
+{
+  "sno": 6,
+  "authors": "M Ravindran, C Balaji",
+  "title": "Thermodynamic analysis of 1 MW OTEC plant",
+  "conference": "Oceanology International IOA, Singapore, 1997"
+},
+{
+  "sno": 5,
+  "authors": "K Sri Jayaram, S P Venkateshan, C Balaji",
+  "title": "Free convection and radiation in partitioned enclosures",
+  "conference": "International Symposium on Transport Phenomena, Singapore, 1996"
+},
+{
+  "sno": 4,
+  "authors": "C Balaji, S P Venkateshan",
+  "title": "Combined free convection with surface radiation in tall cavities",
+  "conference": "ASME-ISHMT Conference, Surathkal, India, 1995"
+},
+{
+  "sno": 3,
+  "authors": "C Balaji, S P Venkateshan",
+  "title": "Interaction of radiation and free convection in cavities",
+  "conference": "ASME-ISHMT Conference, Surathkal, India, 1995"
+},
+{
+  "sno": 2,
+  "authors": "C Balaji, S P Venkateshan",
+  "title": "Flow and temperature fields in cavities and fins under natural convection",
+  "conference": "Asian Symposium on Visualization, Japan, 1994"
+},
+{
+  "sno": 1,
+  "authors": "K Sridhar, C Balaji, S P Venkateshan",
+  "title": "Effect of two-dimensionality in radiating conducting wedges",
+  "conference": "ASME-ISHMT Heat Transfer Conference, Bombay, India, 1994"
+}
+]
 }
 
+  
   

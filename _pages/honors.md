@@ -1,7 +1,7 @@
 ---
+title: null
 layout: page
-title: 
-permalink: /honors
+permalink: "/honors"
 ---
 
 <section class="py-5 py-xl-8">
@@ -73,15 +73,17 @@ permalink: /honors
       <h4 class="mb-3">Career</h4>
       <p class="mb-0 text-secondary">
         • Institute Chair Professor (2020– )<br>
-    • Mid Career Research Award, IIT Madras (2015)<br>
-    • Marti Gurunath Award for Excellence in Teaching, IIT Madras (2013)<br>
-    • Humboldt Fellowship – Renewed Research Stay, Germany (2012)<br>
-    • Elected Fellow, Indian National Academy of Engineering (2012)<br>
-    • Tamilnadu Scientist Award, Govt. of Tamilnadu (2010)<br>
-    • Swarna Jayanthi Fellowship, Govt. of India – Earth & Atmospheric Science (2008)<br>
-    • Prof. K.N. Seetharamu Medal for Research Excellence, ISHMT (2008)<br>
-    • Young Faculty Recognition Award, IIT Madras (2007)<br>
-    • Humboldt Fellowship, Humboldt Foundation, Germany (2005–2006)
+        • T T Narendran Institute Chair Professor (2020)<br>
+        • Mid Career Research Award, IIT Madras (2015)<br>
+        • Marti Gurunath Award for Excellence in Teaching, IIT Madras (2013)<br>
+        • Humboldt Fellowship – Renewed Research Stay, Germany (2012)<br>
+        • Elected Fellow, Indian National Academy of Engineering (2012)<br>
+        • Tamilnadu Scientist Award, Govt. of Tamilnadu (2010)<br>
+        • Swarna Jayanthi Fellowship, Govt. of India – Earth & Atmospheric Science (2008)<br>
+        • Prof. K.N. Seetharamu Medal for Research Excellence, ISHMT (2008)<br>
+        • Young Faculty Recognition Award, IIT Madras (2007)<br>
+        • Humboldt Fellowship, Humboldt Foundation, Germany (2005–2006)
+        
       </p>
     </div>
 
@@ -97,7 +99,7 @@ permalink: /honors
         • M V Abhiram – Best M.Tech Individual Project (2021)<br>
         • Addarsh Chandrasekhar – Best B.Tech Project (2015)<br>
         • Rajesh A – CSK Endowment Prize (2014)<br>
-        • Rajiv Reddy Madadi – CSK Endowment Prize (2008)
+        • Rajiv Reddy Madadi – CSK Endowment Prize (2008)        
       </p>
     </div>
 
@@ -110,13 +112,38 @@ permalink: /honors
       <p class="mb-0 text-secondary">
         • Editorial Board Member,<br>
         International Journal of Thermal Sciences,<br>
-        Elsevier (2011–2016)<br><br>
+        Elsevier (2011–2016)<br>
         • Editor-in-Chief,<br>
         International Journal of Thermal Sciences,<br>
-        Elsevier (2016– )
+        Elsevier (2016– )<br>
+        • Associate Editor – International Journal of Advances in Engineering Sciences and Applied Mathematics (Springer)<br>
+        • Guest Editor – Computational Heat Transfer Special Issue (2012)<br>
+        • Guest Editor – Heat Transfer Engineering Special Issue (2013)
       </p>
     </div>
+  </div>
+</div>
+
+<!-- ================= NEW DATA ADDED (NO REMOVAL) ================= -->
+
+<div class="container mt-5">
+  <div class="row gy-5 gx-md-4 gx-xxl-5">
+
+   <!-- Professional Societies -->
+<div class="col-11 col-sm-6 col-lg-4">
+  <div class="badge bsb-tpl-bg-cyan text-primary p-3 mb-4">
+    <i class="bi bi-diagram-3 fs-3"></i>
+  </div>
+  <h4 class="mb-3">Professional Societies</h4>
+  <p class="text-secondary">
+    • Treasurer – Indian Society for Heat and Mass Transfer (2002–2005)<br>
+    • Secretary – Indian Society for Heat and Mass Transfer (2010–2014)<br>
+    • Member – Indian National Academy of Engineering (2015–2021)<br>
+    • Vice Chairman – Forum on Energy (2018–2023)
+  </p>
+</div>
 
   </div>
 </div>
 
+</section>
