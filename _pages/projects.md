@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/projects"
+permalink: "projects"
 ---
 
 <h2 class="mb-4">a. Projects Undertaken</h2>

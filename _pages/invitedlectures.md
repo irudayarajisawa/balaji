@@ -1,7 +1,7 @@
 ---
 title: null
 layout: page
-permalink: "/invitedlectures"
+permalink: "invitedlectures"
 ---
 
 <!-- ================= TITLE ================= -->
