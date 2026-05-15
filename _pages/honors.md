@@ -72,8 +72,8 @@ permalink: "/honors"
       </div>
       <h4 class="mb-3">Career</h4>
       <p class="mb-0 text-secondary">
-        • Institute Chair Professor (2020– )<br>
-        • T T Narendran Institute Chair Professor (2020)<br>
+        • Distinguished Alumnus Award - College of Engineering, Guindy, Anna University (2026)<br>
+        • T T Narendran Institute Chair Professor (2020 - )<br>
         • Mid Career Research Award, IIT Madras (2015)<br>
         • Marti Gurunath Award for Excellence in Teaching, IIT Madras (2013)<br>
         • Humboldt Fellowship – Renewed Research Stay, Germany (2012)<br>
